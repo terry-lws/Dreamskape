@@ -1,0 +1,138 @@
+{
+  "locations": [
+    {
+      "id": "ds-docklands",
+      "name": "Docklands",
+      "address": "37 Star Crescent, Docklands VIC 3000",
+      "phone": "(03) 9969 2663",
+      "email": "admin@dreamskape.com.au",
+      "hours": {
+        "monday": "11:00 am - 7:00 pm",
+        "tuesday": "11:00 am - 7:00 pm",
+        "wednesday": "11:00 am - 7:00 pm",
+        "thursday": "11:00 am - 7:00 pm",
+        "friday": "11:00 am - 8:30 pm",
+        "saturday": "10:00 am - 10:00 pm",
+        "sunday": "10:00 am - 8:30 pm"
+      }
+    },
+    {
+      "id": "dr-docklands",
+      "name": "Docklands (Dreamrace)",
+      "address": "37 Star Crescent, Docklands VIC 3000",
+      "phone": "(03) 7302 0028",
+      "email": "admin@dreamskape.com.au",
+      "hours": {
+        "monday": "11:00 am - 7:00 pm",
+        "tuesday": "11:00 am - 7:00 pm",
+        "wednesday": "11:00 am - 7:00 pm",
+        "thursday": "11:00 am - 7:00 pm",
+        "friday": "11:00 am - 8:30 pm",
+        "saturday": "10:00 am - 10:00 pm",
+        "sunday": "10:00 am - 8:30 pm"
+      }
+    },
+    {
+      "id": "ds-southland",
+      "name": "Southland",
+      "address": "Shop 2089/1239 Nepean Highway, Cheltenham VIC 3192",
+      "phone": "(03) 7302 0445",
+      "email": "southlandadmin@dreamskape.com.au",
+      "hours": {
+        "monday": "11:00 am - 9:00 pm",
+        "tuesday": "11:00 am - 9:00 pm",
+        "wednesday": "11:00 am - 9:00 pm",
+        "thursday": "11:00 am - 9:00 pm",
+        "friday": "11:00 am - 9:00 pm",
+        "saturday": "11:00 am - 9:00 pm",
+        "sunday": "11:00 am - 9:00 pm"
+      }
+    },
+    {
+      "id": "ds-knox",
+      "name": "Knox",
+      "address": "Shop 3207/425 Burwood Highway, Wantirna South VIC 3152",
+      "phone": "(03) 8820 6568",
+      "email": "knoxadmin@dreamskape.com.au",
+      "hours": {
+        "monday": "11:00 am - 9:00 pm",
+        "tuesday": "11:00 am - 9:00 pm",
+        "wednesday": "11:00 am - 9:00 pm",
+        "thursday": "11:00 am - 9:00 pm",
+        "friday": "11:00 am - 9:00 pm",
+        "saturday": "11:00 am - 9:00 pm",
+        "sunday": "11:00 am - 9:00 pm"
+      }
+    }
+  ],
+  "games": [
+    {
+      "id": "dreamverse",
+      "name": "Dream Verse",
+      "description": "Naked-eye 3D Immersive Movie",
+      "pricing": [
+        { "label": "Standard", "price": 19 },
+        { "label": "Holiday", "price": 22}
+      ],
+      "extraRide": { "label": "Extra ride", "price": 10 }
+    },
+    {
+      "id": "dreamcoaster",
+      "name": "Dream Coaster",
+      "description": "7D Roller Coaster Simulator",
+      "pricing": [
+        { "label": "Standard", "price": 19 },
+        { "label": "Holiday", "price": 22}
+      ],
+      "extraRide": { "label": "Extra ride", "price": 10 }
+    },
+    {
+      "id": "dreamgames",
+      "name": "Dream Games",
+      "description": "10 Immersive & Interactive Challenge Rooms",
+      "pricing": [
+        { "label": "Standard One Hour", "price": 34 },
+        { "label": "Standard Half Hour", "price": 25 },
+        { "label": "Holiday One Hour", "price": 42 },
+        { "label": "Holiday Half Hour", "price": 30 }
+      ],
+      "extraRide": [{ "label": "Extra one hour", "price": 17 }, { "label": "Holiday Extra one hour", "price": 21 }]
+    },
+    {
+      "id": "dreamcombo",
+      "name": "Dream Combo",
+      "description": "Dream Verse + Dream Coaster",
+      "pricing": [
+        { "label": "Standard", "price": 33 },
+        { "label": "Standard", "price": 35}
+      ],
+      "extraRide": { "label": "Extra ride", "price": 10 }
+    },
+    {
+        "id": "dreamplus",
+        "name": "Dream Plus",
+        "description": "Dream Games + Dream Verse / Dream Coaster",
+        "pricing": [
+            {"label": "Standard", "price": 43},
+            {"label": "Holiday", "price": 53},
+            {"label": "Standard Kid", "price": 33},
+            {"label": "Holiday Kid", "price": 44},
+            {"label": "Standard Family", "price": 169},
+            {"label": "Holiday Family", "price": 189}
+        ]
+    },
+    {
+        "id": "picknplay",
+        "name": "Pick 'N' Play",
+        "description": "Choose 1 Activity + 2 rides in either Dreamskape or Dreamrace Docklands Activities: Dream Spartan, Dream Games. Rides: Dream Ride, Hurricane, Dream Coaster, Dream Verse",
+        "pricing": [
+            {"label": "Standard", "price": 68},
+            {"label": "Holiday", "price": 58},
+            {"label": "Standard Kid", "price": 48},
+            {"label": "Holiday Kid", "price": 58},
+            {"label": "Standard Family", "price": 189},
+            {"label": "Holiday Family", "price": 219}
+        ]
+    }
+  ]
+}
