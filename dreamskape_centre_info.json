@@ -1,5 +1,6 @@
 {
-  "locations": [
+  "locationId": ["ds-docklands","dr-docklands","ds-knox","ds-southland"],
+  "centreInfo": [
     {
       "id": "ds-docklands",
       "name": "Docklands",
@@ -19,7 +20,7 @@
     {
       "id": "dr-docklands",
       "name": "Docklands (Dreamrace)",
-      "address": "37 Star Crescent, Docklands VIC 3000",
+      "address": "27 Star Crescent, Docklands VIC 3000",
       "phone": "(03) 7302 0028",
       "email": "admin@dreamskape.com.au",
       "hours": {
