@@ -69,74 +69,108 @@
       "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.7935401079967!2d145.05123631209642!3d-37.95860644221393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d7cf747523f%3A0xaf0f759e2936470d!2sDreamskape%20Southland!5e0!3m2!1sen!2sau!4v1776857025697!5m2!1sen!2sau"
     }
   ],
+
+
+
+  "package": [
+    {
+      "id": "dream-activity",
+      "name": "Dream Activity",
+      "desciption": "Choose one immersive activity from:"
+    },
+    {
+      "id": "dream-movie",
+      "name": "Dream Movie",
+      "desciption": "Choose one immersive activity from:"
+    },
+    {
+      "id": "dream-plus",
+      "name": "Dream Plus (1 Activity + 1 Movie)",
+      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 1 immersive activity and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>"
+    },
+    {
+      "id": "dream-rush",
+      "name": "Dream Rush (2 Activities + 1 Movie)",
+      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 2 immersive activities and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>"
+    }
+  ],
+
+
+  
   "games": [
     {
       "id": "dreamverse",
-      "name": "Dream Verse",
-      "description": "Naked-eye 3D Immersive Movie",
-      "pricing": [
-        { "label": "Standard", "price": 19 },
-        { "label": "Holiday", "price": 22}
-      ],
-      "extraRide": { "label": "Extra ride", "price": 10 }
+      "name": "DreamVerse",
+      "description": "Naked-eye 3D theatre experience",
+      "availableLocationId": [
+        "ds-docklands",
+        "dr-docklands"
+      ]
     },
     {
       "id": "dreamcoaster",
-      "name": "Dream Coaster",
-      "description": "7D Roller Coaster Simulator",
-      "pricing": [
-        { "label": "Standard", "price": 19 },
-        { "label": "Holiday", "price": 22}
-      ],
-      "extraRide": { "label": "Extra ride", "price": 10 }
+      "name": "DreamCoaster",
+      "description": "7D motion coaster with special effects",
+      "availableLocationId": [
+        "ds-docklands",
+        "dr-docklands",
+        "ds-knox"
+      ]
+    },
+    {
+      "id": "dreamride",
+      "name": "DreamRide",
+      "description": "Interactive VR ride",
+      "availableLocationId": [
+        "ds-docklands",
+        "dr-docklands",
+        "ds-southland"
+      ]
+    },
+    {
+      "id": "hurricane",
+      "name": "Hurricane",
+      "description": "High-thrill spinning VR ride",
+      "availableLocationId": [
+        "ds-docklands",
+        "dr-docklands"
+      ]
     },
     {
       "id": "dreamgames",
       "name": "Dream Games",
-      "description": "10 Immersive & Interactive Challenge Rooms",
-      "pricing": [
-        { "label": "Standard One Hour", "price": 34 },
-        { "label": "Standard Half Hour", "price": 25 },
-        { "label": "Holiday One Hour", "price": 42 },
-        { "label": "Holiday Half Hour", "price": 30 }
-      ],
-      "extraRide": [{ "label": "Extra one hour", "price": 17 }, { "label": "Holiday Extra one hour", "price": 21 }]
+      "description": "Team-based interactive challenge rooms",
+      "availableLocationId": [
+        "ds-docklands",
+        "dr-docklands",
+        "ds-knox",
+        "ds-southland"
+      ]
     },
     {
-      "id": "dreamcombo",
-      "name": "Dream Combo",
-      "description": "Dream Verse + Dream Coaster",
-      "pricing": [
-        { "label": "Standard", "price": 33 },
-        { "label": "Standard", "price": 35}
-      ],
-      "extraRide": { "label": "Extra ride", "price": 10 }
+      "id": "dreamspartan",
+      "name": "Dream Spartan",
+      "description": "Indoor playground with obstacle courses and free play",
+      "availableLocationId": [
+        "ds-docklands",
+        "dr-docklands"
+      ]
     },
     {
-        "id": "dreamplus",
-        "name": "Dream Plus",
-        "description": "Dream Games + Dream Verse / Dream Coaster",
-        "pricing": [
-            {"label": "Standard", "price": 43},
-            {"label": "Holiday", "price": 53},
-            {"label": "Standard Kid", "price": 33},
-            {"label": "Holiday Kid", "price": 44},
-            {"label": "Standard Family", "price": 169},
-            {"label": "Holiday Family", "price": 189}
-        ]
+      "id": "dreamswing",
+      "name": "DreamSwing",
+      "description": "VR swing adventure",
+      "availableLocationId": [
+        "ds-southland"
+      ]
     },
     {
-        "id": "picknplay",
-        "name": "Pick 'N' Play",
-        "description": "Choose 1 Activity + 2 rides in either Dreamskape or Dreamrace Docklands Activities: Dream Spartan, Dream Games. Rides: Dream Ride, Hurricane, Dream Coaster, Dream Verse",
-        "pricing": [
-            {"label": "Standard", "price": 68},
-            {"label": "Holiday", "price": 58},
-            {"label": "Standard Kid", "price": 48},
-            {"label": "Holiday Kid", "price": 58},
-            {"label": "Standard Family", "price": 189},
-            {"label": "Holiday Family", "price": 219}
-        ]
+      "id": "dreamflight ",
+      "name": "DreamFlight",
+      "description": "VR jet flying experience",
+      "availableLocationId": [
+        "ds-southland"
+      ]
     }
   ]
 }
