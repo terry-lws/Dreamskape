@@ -35,23 +35,6 @@
       "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d937.0998798530202!2d144.9367334042449!3d-37.813100800660074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d5e6730cadd%3A0x73bb0bb6f7e62f14!2sDreamrace!5e0!3m2!1sen!2sau!4v1776856950707!5m2!1sen!2sau"
     },
     {
-      "id": "ds-southland",
-      "name": "Southland",
-      "address": "Shop 2089/1239 Nepean Highway, Cheltenham VIC 3192",
-      "phone": "(03) 7302 0445",
-      "email": "southlandadmin@dreamskape.com.au",
-      "hours": {
-        "monday": "11:00 am - 9:00 pm",
-        "tuesday": "11:00 am - 9:00 pm",
-        "wednesday": "11:00 am - 9:00 pm",
-        "thursday": "11:00 am - 9:00 pm",
-        "friday": "11:00 am - 9:00 pm",
-        "saturday": "11:00 am - 9:00 pm",
-        "sunday": "11:00 am - 9:00 pm"
-      },
-      "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3149.6293313389815!2d145.2396297120924!3d-37.868962637078766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad63d39e4b4ab09%3A0x553a764f4b103ffd!2sDreamskape%20Knox!5e0!3m2!1sen!2sau!4v1776857062175!5m2!1sen!2sau"
-    },
-    {
       "id": "ds-knox",
       "name": "Knox",
       "address": "Shop 3207/425 Burwood Highway, Wantirna South VIC 3152",
@@ -67,6 +50,23 @@
         "sunday": "11:00 am - 9:00 pm"
       },
       "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.7935401079967!2d145.05123631209642!3d-37.95860644221393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d7cf747523f%3A0xaf0f759e2936470d!2sDreamskape%20Southland!5e0!3m2!1sen!2sau!4v1776857025697!5m2!1sen!2sau"
+    },
+    {
+      "id": "ds-southland",
+      "name": "Southland",
+      "address": "Shop 2089/1239 Nepean Highway, Cheltenham VIC 3192",
+      "phone": "(03) 7302 0445",
+      "email": "southlandadmin@dreamskape.com.au",
+      "hours": {
+        "monday": "11:00 am - 9:00 pm",
+        "tuesday": "11:00 am - 9:00 pm",
+        "wednesday": "11:00 am - 9:00 pm",
+        "thursday": "11:00 am - 9:00 pm",
+        "friday": "11:00 am - 9:00 pm",
+        "saturday": "11:00 am - 9:00 pm",
+        "sunday": "11:00 am - 9:00 pm"
+      },
+      "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3149.6293313389815!2d145.2396297120924!3d-37.868962637078766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad63d39e4b4ab09%3A0x553a764f4b103ffd!2sDreamskape%20Knox!5e0!3m2!1sen!2sau!4v1776857062175!5m2!1sen!2sau"
     }
   ],
 
@@ -125,6 +125,7 @@
       "name": "DreamVerse",
       "category": "ride",
       "description": "Naked-eye 3D theatre experience",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/75972233-789f-4f44-a9cd-10cd92d500f1/DSC09891.jpg?format=750w",
       "availableLocationId": [
         "ds-docklands"
       ]
@@ -134,6 +135,7 @@
       "name": "DreamCoaster",
       "category": "ride",
       "description": "7D motion coaster with special effects",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/3194f3a7-ede5-47fc-90cc-fc8b4ffaaabd/Coaster+%282%29.jpg?format=750w",
       "availableLocationId": [
         "ds-docklands",
         "ds-knox"
@@ -144,6 +146,7 @@
       "name": "DreamRide",
       "category": "ride",
       "description": "Interactive VR ride",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg?format=750w",
       "availableLocationId": [
         "dr-docklands",
         "ds-southland"
@@ -154,6 +157,7 @@
       "name": "Hurricane",
       "category": "ride",
       "description": "High-thrill spinning VR ride",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG?format=750w",
       "availableLocationId": [
         "dr-docklands"
       ]
@@ -163,6 +167,7 @@
       "name": "DreamGames",
       "category": "activity",
       "description": "Team-based interactive challenge rooms",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?format=750w",
       "availableLocationId": [
         "ds-docklands",
         "ds-knox",
@@ -174,6 +179,7 @@
       "name": "DreamSpartan",
       "category": "activity",
       "description": "Indoor playground with obstacle courses and free play",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/17c068d3-c09c-404b-b60a-438eef687a9c/Spartan.jpg?format=750w",
       "availableLocationId": [
         "dr-docklands"
       ]
@@ -183,6 +189,7 @@
       "name": "DreamSwing",
       "category": "ride",
       "description": "VR swing adventure",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/097a2b4f-48c8-4154-85b3-eaadbec30665/Screenshot+2025-12-12+at+16.27.10.png?format=750w",
       "availableLocationId": [
         "ds-southland"
       ]
