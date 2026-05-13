@@ -76,22 +76,44 @@
     {
       "id": "dream-activity",
       "name": "Dream Activity",
-      "desciption": "Choose one immersive activity from:"
+      "desciption": "Choose one immersive activity from:",
+      "availableLocationId": [
+        "ds-docklands",
+        "dr-docklands",
+        "ds-knox",
+        "ds-southland"
+      ]
     },
     {
       "id": "dream-movie",
       "name": "Dream Movie",
-      "desciption": "Choose one immersive activity from:"
+      "desciption": "Choose one immersive activity from:",
+      "availableLocationId": [
+        "ds-docklands",
+        "dr-docklands",
+        "ds-knox",
+        "ds-southland"
+      ]
     },
     {
       "id": "dream-plus",
       "name": "Dream Plus (1 Activity + 1 Movie)",
-      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 1 immersive activity and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>"
+      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 1 immersive activity and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
+      "availableLocationId": [
+        "ds-docklands",
+        "dr-docklands",
+        "ds-knox",
+        "ds-southland"
+      ]
     },
     {
       "id": "dream-rush",
       "name": "Dream Rush (2 Activities + 1 Movie)",
-      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 2 immersive activities and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>"
+      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 2 immersive activities and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
+      "availableLocationId": [
+        "ds-docklands",
+        "dr-docklands"
+      ]
     }
   ],
 
@@ -100,7 +122,8 @@
   "games": [
     {
       "id": "dreamverse",
-      "name": "DreamVerse",
+      "name": "Dream Verse",
+      "category": "ride",
       "description": "Naked-eye 3D theatre experience",
       "availableLocationId": [
         "ds-docklands"
@@ -108,7 +131,8 @@
     },
     {
       "id": "dreamcoaster",
-      "name": "DreamCoaster",
+      "name": "Dream Coaster",
+      "category": "ride",
       "description": "7D motion coaster with special effects",
       "availableLocationId": [
         "ds-docklands",
@@ -117,7 +141,8 @@
     },
     {
       "id": "dreamride",
-      "name": "DreamRide",
+      "name": "Dream Ride",
+      "category": "ride",
       "description": "Interactive VR ride",
       "availableLocationId": [
         "dr-docklands",
@@ -127,6 +152,7 @@
     {
       "id": "hurricane",
       "name": "Hurricane",
+      "category": "ride",
       "description": "High-thrill spinning VR ride",
       "availableLocationId": [
         "dr-docklands"
@@ -135,6 +161,7 @@
     {
       "id": "dreamgames",
       "name": "Dream Games",
+      "category": "activity",
       "description": "Team-based interactive challenge rooms",
       "availableLocationId": [
         "ds-docklands",
@@ -145,6 +172,7 @@
     {
       "id": "dreamspartan",
       "name": "Dream Spartan",
+      "category": "activity",
       "description": "Indoor playground with obstacle courses and free play",
       "availableLocationId": [
         "dr-docklands"
@@ -152,15 +180,17 @@
     },
     {
       "id": "dreamswing",
-      "name": "DreamSwing",
+      "name": "Dream Swing",
+      "category": "ride",
       "description": "VR swing adventure",
       "availableLocationId": [
         "ds-southland"
       ]
     },
     {
-      "id": "dreamflight ",
-      "name": "DreamFlight",
+      "id": "dreamflight",
+      "name": "Dream Flight",
+      "category": "ride",
       "description": "VR jet flying experience",
       "availableLocationId": [
         "ds-southland"
