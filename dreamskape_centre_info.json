@@ -122,7 +122,7 @@
   "games": [
     {
       "id": "dreamverse",
-      "name": "Dream Verse",
+      "name": "DreamVerse",
       "category": "ride",
       "description": "Naked-eye 3D theatre experience",
       "availableLocationId": [
@@ -131,7 +131,7 @@
     },
     {
       "id": "dreamcoaster",
-      "name": "Dream Coaster",
+      "name": "DreamCoaster",
       "category": "ride",
       "description": "7D motion coaster with special effects",
       "availableLocationId": [
@@ -141,7 +141,7 @@
     },
     {
       "id": "dreamride",
-      "name": "Dream Ride",
+      "name": "DreamRide",
       "category": "ride",
       "description": "Interactive VR ride",
       "availableLocationId": [
@@ -160,7 +160,7 @@
     },
     {
       "id": "dreamgames",
-      "name": "Dream Games",
+      "name": "DreamGames",
       "category": "activity",
       "description": "Team-based interactive challenge rooms",
       "availableLocationId": [
@@ -171,7 +171,7 @@
     },
     {
       "id": "dreamspartan",
-      "name": "Dream Spartan",
+      "name": "DreamSpartan",
       "category": "activity",
       "description": "Indoor playground with obstacle courses and free play",
       "availableLocationId": [
@@ -180,7 +180,7 @@
     },
     {
       "id": "dreamswing",
-      "name": "Dream Swing",
+      "name": "DreamSwing",
       "category": "ride",
       "description": "VR swing adventure",
       "availableLocationId": [
@@ -189,9 +189,10 @@
     },
     {
       "id": "dreamflight",
-      "name": "Dream Flight",
+      "name": "DreamFlight",
       "category": "ride",
       "description": "VR jet flying experience",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/16ac3a1e-d8bd-46d7-8959-4c95919ccd4f/WhatsApp+Image+2026-01-21+at+13.32.10.jpeg?format=750w",
       "availableLocationId": [
         "ds-southland"
       ]
