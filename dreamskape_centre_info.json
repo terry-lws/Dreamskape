@@ -167,7 +167,11 @@
       "name": "DreamGames",
       "category": "activity",
       "description": "Explore immersive game rooms packed with interactive puzzles, challenges, and surprises. Team up with family and friends to solve tasks that require cooperation, quick thinking, and solid teamwork. It's the perfect mix of family fun and team-building excitement!",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?format=750w",
+      "imageSrc": {
+        "ds-docklands":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?content-type=image%2Fjpeg",
+        "ds-knox":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7ed694dc-4250-4d5a-8177-d96f4a4e3a70/IMG_6207.JPG?content-type=image%2Fjpeg",
+        "ds-southland":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/5622c39d-76cd-4857-b8d6-7d4eca8c9e86/IMG_6208.JPG?content-type=image%2Fjpeg"
+      },
       "availableLocationId": [
         "ds-docklands",
         "ds-knox",
