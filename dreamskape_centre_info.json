@@ -44,6 +44,23 @@
       "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d937.0998798530202!2d144.9367334042449!3d-37.813100800660074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d5e6730cadd%3A0x73bb0bb6f7e62f14!2sDreamrace!5e0!3m2!1sen!2sau!4v1776856950707!5m2!1sen!2sau"
     },
     {
+      "id": "ds-knox",
+      "name": "Knox",
+      "address": "Shop 3207/425 Burwood Highway, Wantirna South VIC 3152",
+      "phone": "(03) 8820 6568",
+      "email": "knoxadmin@dreamskape.com.au",
+      "hours": {
+        "monday": "11:00 am - 9:00 pm",
+        "tuesday": "11:00 am - 9:00 pm",
+        "wednesday": "11:00 am - 9:00 pm",
+        "thursday": "11:00 am - 9:00 pm",
+        "friday": "11:00 am - 9:00 pm",
+        "saturday": "11:00 am - 9:00 pm",
+        "sunday": "11:00 am - 9:00 pm"
+      },
+      "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.7935401079967!2d145.05123631209642!3d-37.95860644221393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d7cf747523f%3A0xaf0f759e2936470d!2sDreamskape%20Southland!5e0!3m2!1sen!2sau!4v1776857025697!5m2!1sen!2sau"
+    },
+    {
       "id": "ds-southland",
       "name": "Southland",
       "address": "Shop 2089/1239 Nepean Highway, Cheltenham VIC 3192",
@@ -71,16 +88,8 @@
       "id": "ds-knox",
       "name": "Knox",
       "address": "Shop 3207/425 Burwood Highway, Wantirna South VIC 3152",
-      "suburb": "Wantirna South",
-      "mall": "Westfield Knox",
-      "price": 20,
-      "features": ["Naked-eye 3D","Challenge Game Rooms","Open Late"],
-      "attractionsLink":"",
-      "bookingLink": "",
       "phone": "(03) 8820 6568",
       "email": "knoxadmin@dreamskape.com.au",
-      "badge": "New",
-      "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/bc4d859e-dc9d-4074-a3fe-e712b49bcbed/IMG_6183.JPG?content-type=image%2Fjpeg",
       "hours": {
         "monday": "11:00 am - 9:00 pm",
         "tuesday": "11:00 am - 9:00 pm",
@@ -146,32 +155,32 @@
   "games": [
     {
       "id": "dreamverse",
-      "name": "Dream Verse",
+      "name": "DreamVerse",
       "category": "ride",
-      "description": "Naked-eye 3D theatre experience",
+      "description": "Welcome to the future of immersive storytelling! Powered by ultra-high resolution visuals that stretch from floor to ceiling, DreamVerse surrounds you in stunning 3D environments, no headset required!",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/75972233-789f-4f44-a9cd-10cd92d500f1/DSC09891.jpg?format=750w",
       "availableLocationId": [
-        "ds-docklands",
-        "dr-docklands"
+        "ds-docklands"
       ]
     },
     {
       "id": "dreamcoaster",
-      "name": "Dream Coaster",
+      "name": "DreamCoaster",
       "category": "ride",
-      "description": "7D motion coaster with special effects",
+      "description": "Get ready for a thrilling ride packed with twists, turns, and surprise sensations like bubbles and sprays. Zoom past playful creatures and magical landmarks in an immersive world full of fun and adventure.",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/3194f3a7-ede5-47fc-90cc-fc8b4ffaaabd/Coaster+%282%29.jpg?format=750w",
       "availableLocationId": [
         "ds-docklands",
-        "dr-docklands",
         "ds-knox"
       ]
     },
     {
       "id": "dreamride",
-      "name": "Dream Ride",
+      "name": "DreamRide",
       "category": "ride",
-      "description": "Interactive VR ride",
+      "description": "Designed to engage all five senses, DreamRide uses cutting-edge Virtual Reality technology that features 9D motion to fully immerse you in the ride. Each bike moves with the action, while wind, fog, water, and even scents hit at just the right moment. Get ready for a wild, unforgettable ride through worlds that feel totally real!",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg?format=750w",
       "availableLocationId": [
-        "ds-docklands",
         "dr-docklands",
         "ds-southland"
       ]
@@ -180,48 +189,54 @@
       "id": "hurricane",
       "name": "Hurricane",
       "category": "ride",
-      "description": "High-thrill spinning VR ride",
+      "description": "Hurricane is the highlight of Dreamrace's VR experience. This four-seat, seven-axis motion ride is equipped with a 360-degree rotation capability, making it a 7DOF (Degrees of Freedom) experience. ",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG?format=750w",
       "availableLocationId": [
-        "ds-docklands",
         "dr-docklands"
       ]
     },
     {
       "id": "dreamgames",
-      "name": "Dream Games",
+      "name": "DreamGames",
       "category": "activity",
-      "description": "Team-based interactive challenge rooms",
+      "description": "Explore immersive game rooms packed with interactive puzzles, challenges, and surprises. Team up with family and friends to solve tasks that require cooperation, quick thinking, and solid teamwork. It's the perfect mix of family fun and team-building excitement!",
+      "imageSrc": {
+        "ds-docklands":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?content-type=image%2Fjpeg",
+        "ds-knox":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7ed694dc-4250-4d5a-8177-d96f4a4e3a70/IMG_6207.JPG?content-type=image%2Fjpeg",
+        "ds-southland":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/5622c39d-76cd-4857-b8d6-7d4eca8c9e86/IMG_6208.JPG?content-type=image%2Fjpeg"
+      },
       "availableLocationId": [
         "ds-docklands",
-        "dr-docklands",
         "ds-knox",
         "ds-southland"
       ]
     },
     {
       "id": "dreamspartan",
-      "name": "Dream Spartan",
+      "name": "DreamSpartan",
       "category": "activity",
-      "description": "Indoor playground with obstacle courses and free play",
+      "description": "Dash, dodge, and hang on as moving walls and shifting platforms try to knock you off course. These high-energy obstacle courses challenge kids to stay focused, think fast, and push through to the finish it all off with a high-speed slide!",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/17c068d3-c09c-404b-b60a-438eef687a9c/Spartan.jpg?format=750w",
       "availableLocationId": [
-        "ds-docklands",
         "dr-docklands"
       ]
     },
     {
       "id": "dreamswing",
-      "name": "Dream Swing",
+      "name": "DreamSwing",
       "category": "ride",
-      "description": "VR swing adventure",
+      "description": "Dream Swing is an immersive VR entertainment machine that integrates virtual reality technology and a dynamic simulation platform. The device supports multiple virtual scene switching, such as forest crossing, flying in the air, gliding in the future city, etc., suitable for players of all ages to experience.",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/097a2b4f-48c8-4154-85b3-eaadbec30665/Screenshot+2025-12-12+at+16.27.10.png?format=750w",
       "availableLocationId": [
         "ds-southland"
       ]
     },
     {
       "id": "dreamflight",
-      "name": "Dream Flight",
+      "name": "DreamFlight",
       "category": "ride",
-      "description": "VR jet flying experience",
+      "description": "Dream Flight is an advanced virtual reality flight simulator, providing two-person seating and perfectly replicating the cockpit of a fighter jet, designed for flight enthusiasts and gamers. It centers on a highly simulated flying fighter driving experience, allowing players to immerse themselves in the excitement and thrill of aerial combat. The flight simulator has a variety of built-in air games, including shooting interactive buttons, so that you can have intense and exciting air shooting interaction with your friends.",
+      "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/16ac3a1e-d8bd-46d7-8959-4c95919ccd4f/WhatsApp+Image+2026-01-21+at+13.32.10.jpeg?content-type=image%2Fjpeg",
       "availableLocationId": [
         "ds-southland"
       ]
