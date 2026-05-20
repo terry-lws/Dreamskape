@@ -25,30 +25,6 @@
       "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.021694355649!2d144.9348373120899!3d-37.81296083387633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d17e4136b51%3A0x9552e3b5d259895e!2sDreamskape!5e0!3m2!1sen!2sau!4v1776856793323!5m2!1sen!2sau"
     },
     {
-      "id": "dr-docklands",
-      "name": "Docklands (Dreamrace)",
-      "address": "27 Star Crescent, Docklands VIC 3000",
-      "suburb": "Docklands",
-      "mall": "The District Docklands",
-      "price": 20,
-      "features": ["Naked-eye 3D","Challenge Game Rooms","Obstacle Course","VR Rides"],
-      "attractionsLink":"",
-      "bookingLink": "",
-      "phone": "(03) 7302 0028",
-      "email": "admin@dreamskape.com.au",
-      "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/c45443fc-e9b2-41e5-88d6-6033460486fe/Weixin+Image_20250817165404_3.jpg?content-type=image%2Fjpeg",
-      "hours": {
-        "monday": "11:00 am - 7:00 pm",
-        "tuesday": "11:00 am - 7:00 pm",
-        "wednesday": "11:00 am - 7:00 pm",
-        "thursday": "11:00 am - 7:00 pm",
-        "friday": "11:00 am - 8:30 pm",
-        "saturday": "10:00 am - 10:00 pm",
-        "sunday": "10:00 am - 8:30 pm"
-      },
-      "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d937.0998798530202!2d144.9367334042449!3d-37.813100800660074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d5e6730cadd%3A0x73bb0bb6f7e62f14!2sDreamrace!5e0!3m2!1sen!2sau!4v1776856950707!5m2!1sen!2sau"
-    },
-    {
       "id": "ds-knox",
       "name": "Knox",
       "address": "Shop 3207/425 Burwood Highway, Wantirna South VIC 3152",
@@ -107,7 +83,6 @@
       "desciption": "Choose one immersive activity from:",
       "availableLocationId": [
         "ds-docklands",
-        "dr-docklands",
         "ds-knox",
         "ds-southland"
       ]
@@ -118,7 +93,6 @@
       "desciption": "Choose one immersive activity from:",
       "availableLocationId": [
         "ds-docklands",
-        "dr-docklands",
         "ds-knox",
         "ds-southland"
       ]
@@ -129,7 +103,6 @@
       "desciption": "<p>Choose one immersive activity from:</p><p>Choose 1 immersive activity and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
       "availableLocationId": [
         "ds-docklands",
-        "dr-docklands",
         "ds-knox",
         "ds-southland"
       ]
@@ -139,8 +112,7 @@
       "name": "Dream Rush (2 Activities + 1 Movie)",
       "desciption": "<p>Choose one immersive activity from:</p><p>Choose 2 immersive activities and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
       "availableLocationId": [
-        "ds-docklands",
-        "dr-docklands"
+        "ds-docklands"
       ]
     }
   ],
@@ -176,7 +148,6 @@
       "description": "Designed to engage all five senses, DreamRide uses cutting-edge Virtual Reality technology that features 9D motion to fully immerse you in the ride. Each bike moves with the action, while wind, fog, water, and even scents hit at just the right moment. Get ready for a wild, unforgettable ride through worlds that feel totally real!",
       "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg?format=750w",
       "availableLocationId": [
-        "dr-docklands",
         "ds-southland"
       ]
     },
@@ -187,7 +158,7 @@
       "description": "Hurricane is the highlight of Dreamrace's VR experience. This four-seat, seven-axis motion ride is equipped with a 360-degree rotation capability, making it a 7DOF (Degrees of Freedom) experience. ",
       "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG?format=750w",
       "availableLocationId": [
-        "dr-docklands"
+        "ds-docklands"
       ]
     },
     {
@@ -213,7 +184,7 @@
       "description": "Dash, dodge, and hang on as moving walls and shifting platforms try to knock you off course. These high-energy obstacle courses challenge kids to stay focused, think fast, and push through to the finish it all off with a high-speed slide!",
       "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/17c068d3-c09c-404b-b60a-438eef687a9c/Spartan.jpg?format=750w",
       "availableLocationId": [
-        "dr-docklands"
+        "ds-docklands"
       ]
     },
     {
