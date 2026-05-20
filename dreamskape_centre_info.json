@@ -60,6 +60,7 @@
       "features": ["Naked-eye 3D","Challenge Game Rooms","Open Late"],
       "attractionsLink":"",
       "bookingLink": "",
+      "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/c45443fc-e9b2-41e5-88d6-6033460486fe/Weixin+Image_20250817165404_3.jpg?content-type=image%2Fjpeg",
       "hours": {
         "monday": "11:00 am - 9:00 pm",
         "tuesday": "11:00 am - 9:00 pm",
@@ -101,6 +102,7 @@
       "address": "Shop 3207/425 Burwood Highway, Wantirna South VIC 3152",
       "phone": "(03) 8820 6568",
       "email": "knoxadmin@dreamskape.com.au",
+      "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/c45443fc-e9b2-41e5-88d6-6033460486fe/Weixin+Image_20250817165404_3.jpg?content-type=image%2Fjpeg",
       "suburb": "Wantirna South",
       "mall": "Westfiled Knox",
       "price": 20,
