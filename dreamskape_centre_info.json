@@ -207,5 +207,58 @@
         "ds-southland"
       ]
     }
+  ],
+
+
+
+  "attractions": [
+    {
+      "id": "cinema",
+      "name": "Naked-Eye 3D Cinema",
+      "label": "01 — SIGNATURE",
+      "description": "No glasses, no headset. Step into Melbourne's only true naked-eye 3D cinema, images that float right in front of you, sharper than anything you've seen before.",
+      "mainImageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/3194f3a7-ede5-47fc-90cc-fc8b4ffaaabd/Coaster+%282%29.jpg?content-type=image%2Fjpeg",
+      "secondaryImageSrc": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/a2187f48-303e-49b8-b1a0-c158225199f4/Verse.jpg?content-type=image%2Fjpeg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/961c049c-79ae-4fc4-9c7b-5755bcf2dd09/Dream%252BCoaster_converted.jpg?content-type=image%2Fjpeg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7f02ccc7-5597-4986-a1d8-7efa6e8de4be/_E4A5714.jpg?content-type=image%2Fjpeg"
+      ]
+    },
+    {
+      "id": "game-rooms",
+      "name": "Challenge Game Rooms",
+      "label": "02",
+      "description": "Themed rooms, each with its own puzzle. Beat them solo, in teams, or race the clock. Perfect for birthdays, team days, or just bragging rights.",
+      "mainImageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/c4776c1b-8460-403d-bf24-1a41773aaa76/_O0A4646.jpg?content-type=image%2Fjpeg",
+      "secondaryImageSrc": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/260a7c87-89e6-4397-a740-d75b8d0381d3/IMG_6207.png?content-type=image%2Fpng",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?content-type=image%2Fjpeg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/5622c39d-76cd-4857-b8d6-7d4eca8c9e86/IMG_6208.JPG?content-type=image%2Fjpeg"
+      ]
+    },
+    {
+      "id": "obstacle-course",
+      "name": "Obstacle Course",
+      "label": "03",
+      "description": "Climb, swing, balance and tap your wristband to score points at every station. Race friends, beat your last run, climb the leaderboard.",
+      "mainImageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/17c068d3-c09c-404b-b60a-438eef687a9c/Spartan.jpg?content-type=image%2Fjpeg",
+      "secondaryImageSrc": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/75399f65-a28d-4eb3-adfa-775fc64fcfc1/Weixin+Image_20250817171925_2.jpg?content-type=image%2Fjpeg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/2a9a5b39-739b-46cb-bbbf-c580306f423e/Screen+Shot+2025-07-20+at+01.15.00.png?content-type=image%2Fpng"
+      ]
+    },
+    {
+      "id": "vr",
+      "name": "VR Rides",
+      "label": "04",
+      "description": "Four full-motion VR rides including Hurricane, our 360° flip ride that spins you upside down. Built for thrill-seekers and curious first-timers.",
+      "mainImageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG?content-type=image%2Fjpeg",
+      "secondaryImageSrc": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg?content-type=image%2Fjpeg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/d8494428-353c-4314-92b9-bf8947582d49/dream+swing.png?content-type=image%2Fpng",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/16ac3a1e-d8bd-46d7-8959-4c95919ccd4f/WhatsApp+Image+2026-01-21+at+13.32.10.jpeg?content-type=image%2Fjpeg"
+      ]
+    }
   ]
 }
