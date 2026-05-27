@@ -1,0 +1,160 @@
+<head>
+<style>
+
+  .ds-attr-intro {
+    background: #fff;
+    padding: 28px 16px 22px;
+    text-align: left;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  .ds-attr-intro__eyebrow {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #ff6b35;
+    margin: 0 0 8px;
+  }
+  .ds-attr-intro__title {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 0 0 10px;
+    color: #1a1a1a;
+  }
+  .ds-attr-intro__body {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #5f5e5a;
+    margin: 0;
+  }
+
+  .ds-attractions {
+    background: #fff;
+    padding: 0 0 24px;
+  }
+  @media (min-width: 720px) {
+    .ds-attractions { max-width: 1000px; margin: 0 auto; }
+    .ds-attr-intro__title { font-size: 32px; }
+    .ds-attr-intro { padding: 40px 24px 28px; }
+  }
+
+  .ds-attr-card { margin-bottom: 8px; }
+
+  .ds-attr-hero {
+    aspect-ratio: 16 / 10;
+    background-size: cover;
+    background-position: center;
+    background-color: #1a1a2e;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .ds-attr-hero__overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.8) 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 18px;
+  }
+  .ds-attr-hero__num {
+    color: rgba(255,255,255,0.75);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.8px;
+    margin-bottom: 4px;
+  }
+  .ds-attr-hero__num--signature { color: #ffb84d; }
+  .ds-attr-hero__title {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 1.15;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+  }
+  @media (min-width: 720px) {
+    .ds-attr-hero__title { font-size: 28px; }
+  }
+
+  .ds-attr-body { padding: 14px 16px 18px; background: #fff; }
+  @media (min-width: 720px) { .ds-attr-body { padding: 18px 24px 24px; } }
+
+  .ds-attr-desc {
+    font-size: 13px;
+    line-height: 1.6;
+    color: #5f5e5a;
+    margin: 0 0 12px;
+  }
+  @media (min-width: 720px) { .ds-attr-desc { font-size: 14px; } }
+
+  .ds-attr-thumbs {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6px;
+  }
+  .ds-attr-thumb {
+    aspect-ratio: 1 / 1;
+    border-radius: 6px;
+    background-size: cover;
+    background-position: center;
+    background-color: #f1efe8;
+    transition: opacity 0.15s ease;
+  }
+  .ds-attr-thumb:hover { opacity: 0.85; }
+
+</style>
+</head>
+<body>
+
+<div class="ds-attr-intro">
+  <p class="ds-attr-intro__eyebrow">Inside Dreamskape</p >
+  <h2 class="ds-attr-intro__title">Four ways to play, all under one roof</h2>
+  <p class="ds-attr-intro__body">Australia's first digital theme park brings together cinema, gaming, fitness and VR — designed for kids, families, and friends to share something they've never seen before.</p >
+</div>
+
+<section class="ds-attractions">
+  <div id="attractions"></div>
+</section>
+
+</body>
+
+<script>
+  function renderAttractionsCard(attractions) {
+    return `
+  <article class="ds-attr-card">
+    <div class="ds-attr-hero" style="background-image: url('${attractions.mainImageSrc}');">
+      <div class="ds-attr-hero__overlay">
+        <span class="ds-attr-hero__num">${attractions.label}</span>
+        <h3 class="ds-attr-hero__title">${attractions.name}</h3>
+      </div>
+    </div>
+    <div class="ds-attr-body">
+      <p class="ds-attr-desc">${attractions.description}</p>
+      <div class="ds-attr-thumbs">
+        ${attractions.secondaryImageSrc.map(img => `
+        <div class="ds-attr-thumb" style="background-image: url('${img}');"></div>`
+        ).join('')}
+      </div>
+    </div>
+  </article>
+    `
+  }
+
+  async function loadData() {
+    try {
+      const res = await fetch("https://raw.githubusercontent.com/terry-lws/Dreamskape/main/dreamskape_centre_info.json");
+      const data = await res.json();
+      const attractionsHtml = data.attractions.map(renderAttractionsCard).join('');
+      document.getElementById('attractions').innerHTML = attractionsHtml;
+    } catch (err) {
+      document.getElementById('attractions').innerHTML = err;
+      console.log(err);
+    }
+  }
+
+  loadData()
+</script>
