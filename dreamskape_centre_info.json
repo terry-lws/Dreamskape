@@ -72,6 +72,54 @@
         "sunday": "11:00 am - 9:00 pm"
       },
 "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.7935401079967!2d145.05123631209642!3d-37.95860644221393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d7cf747523f%3A0xaf0f759e2936470d!2sDreamskape%20Southland!5e0!3m2!1sen!2sau!4v1776857025697!5m2!1sen!2sau"    
+    },
+    {
+      "id": "ds-chatswood",
+      "name": "Chatswood",
+      "address": "",
+      "suburb": "Chatswood",
+      "mall": "",
+      "price": "",
+      "features": [],
+      "attractionsLink":"/chatswood",
+      "bookingLink": "",
+      "phone": "",
+      "email": "",
+      "imageSrc": "",
+      "hours": {
+        "monday": "11:00 am - 9:00 pm",
+        "tuesday": "11:00 am - 9:00 pm",
+        "wednesday": "11:00 am - 9:00 pm",
+        "thursday": "11:00 am - 9:00 pm",
+        "friday": "11:00 am - 9:00 pm",
+        "saturday": "11:00 am - 9:00 pm",
+        "sunday": "11:00 am - 9:00 pm"
+      },
+"googleMapsLink": ""    
+    },
+    {
+      "id": "ds-westlake",
+      "name": "West Lake",
+      "address": "Shop 2089/1239 Nepean Highway, Cheltenham VIC 3192",
+      "suburb": "West Lake",
+      "mall": "",
+      "price": "",
+      "features": [""],
+      "attractionsLink":"/westlake",
+      "bookingLink": "",
+      "phone": "",
+      "email": "",
+      "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8946c0e6-31d4-4d5d-b913-7776339b12f3/3963.jpg?content-type=image%2Fpng",
+      "hours": {
+        "monday": "11:00 am - 9:00 pm",
+        "tuesday": "11:00 am - 9:00 pm",
+        "wednesday": "11:00 am - 9:00 pm",
+        "thursday": "11:00 am - 9:00 pm",
+        "friday": "11:00 am - 9:00 pm",
+        "saturday": "11:00 am - 9:00 pm",
+        "sunday": "11:00 am - 9:00 pm"
+      },
+"googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.7935401079967!2d145.05123631209642!3d-37.95860644221393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d7cf747523f%3A0xaf0f759e2936470d!2sDreamskape%20Southland!5e0!3m2!1sen!2sau!4v1776857025697!5m2!1sen!2sau"    
     }
   ],
 
