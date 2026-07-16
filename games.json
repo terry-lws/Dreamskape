@@ -1,0 +1,42 @@
+{
+  "section": {
+    "eyebrow": "Interactive Challenge Rooms",
+    "title": "Game Rooms",
+    "subtitle": "12 immersive rooms. Pick your challenge and step into the future."
+  },
+  "games": [
+    {
+      "id": "neon-pulse",
+      "name": "Neon Pulse Arena",
+      "description": "Race the lights, sync with your team, and survive escalating rounds of reactive challenges.",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "badge": "Live",
+      "players": "2–8 players",
+      "duration": "20 min",
+      "tags": ["High energy"],
+      "href": "/game-rooms/neon-pulse"
+    },
+    {
+      "id": "gridlock-lab",
+      "name": "Gridlock Lab",
+      "description": "Solve shifting puzzles under pressure. Strategy, timing, and teamwork decide who escapes.",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/bccbbadd-a5ea-4415-aff8-d699e41242ac/IMG_6204.JPG?content-type=image%2Fjpeg",
+      "badge": "Popular",
+      "players": "3–6 players",
+      "duration": "25 min",
+      "tags": ["Puzzle"],
+      "href": "/game-rooms/gridlock-lab"
+    },
+    {
+      "id": "echo-chamber",
+      "name": "Echo Chamber",
+      "description": "Follow sound cues and light trails through a dark, reactive space built for quick decisions.",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/b2f38888-0f02-4c87-811e-c9064490bd2f/party.png?content-type=image%2Fpng",
+      "badge": "New",
+      "players": "2–5 players",
+      "duration": "15 min",
+      "tags": ["Immersive"],
+      "href": "/game-rooms/echo-chamber"
+    }
+  ]
+}
