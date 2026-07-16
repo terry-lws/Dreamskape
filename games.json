@@ -4,7 +4,7 @@
       "id": "jumping-lattice",
       "name": "Jumping Lattice",
       "description": "Step on blue lighted tiles while avoid moving red light tiles to complete the level.",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2b4dcdf2-b8d9-4f42-be55-b9876cfa8091/IMG_5892.JPG",
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/jumping-lattice-instructions"
@@ -13,7 +13,7 @@
       "id": "laser-challenge",
       "name": "Laser Challenge",
       "description": "Dodge the lasers as you go back and forth into the safezone.",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg",
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/laser-challenge"
@@ -22,7 +22,7 @@
       "id": "spot-it",
       "name": "Spot It",
       "description": "Push different wall light buttons according to the chosen game mode.",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/65cdba1b-f3d7-414a-9229-3dffcf7aaa71/SPOT-IT-frames_5.1.1+Large.jpeg",
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/spot-it"
@@ -31,7 +31,7 @@
       "id": "spins",
       "name": "Spin It & Spin Up",
       "description": "Catch the lights by spinning the floor and matching the lights to the coloured marks on the floor.",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/27ad9aff-343f-431f-8c6d-f177dabc656b/41730080545_.pic_hd.jpg",
       "gamemodes": 1,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/spinit"
@@ -49,7 +49,7 @@
       "id": "climb",
       "name": "Climb",
       "description": "A rock climbing game without the elements and equipment.",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/7d0e4e1d-24f2-41dd-b289-5a67928307ed/WechatIMG9.jpg",
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/climb"
@@ -58,7 +58,7 @@
       "id": "pipeball",
       "name": "Pipeball",
       "description": "Identify the correct portal, toss the ball to your teammate, and put it in the hole.",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/5622c39d-76cd-4857-b8d6-7d4eca8c9e86/IMG_6208.JPG",
       "gamemodes": 10,
       "locations": ["Docklands"],
       "href": "/pipeball"
@@ -67,7 +67,7 @@
       "id": "cool-arene",
       "name": "Cool Arena",
       "description": "Push different wall light buttons according to the chosen game mode.",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/ab574a79-4e00-468a-866c-81a21ec8a9fe/%E9%80%89%E5%85%B3%E5%B1%8F%E4%B8%AD%E9%97%B4%E5%9B%BE-%E7%82%AB%E9%85%B7%E6%8A%95%E6%8E%B73.png",
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/cool-arena"
@@ -76,7 +76,7 @@
       "id": "devils-eye",
       "name": "Devil's Eye",
       "description": "Push different wall light buttons according to the chosen game mode.",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/c4776c1b-8460-403d-bf24-1a41773aaa76/_O0A4646.jpg",
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/game-rooms/devils-eye"
@@ -85,7 +85,7 @@
       "id": "lightning",
       "name": "Lightning",
       "description": "Test your timing, reflexes, and teamwork in Lightning Room! Watch the lights carefully and strike at the perfect moment to score points. Stay focused—every missed hit costs your team a life.",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/cfcdca07-eb7b-493f-a2eb-0a347558c2d4/Dreamskape+Knox+Opening+55+Medium.png",
       "gamemodes": 10,
       "locations": ["Knox"],
       "href": "/game-rooms/lightning"
@@ -94,7 +94,7 @@
       "id": "octopus",
       "name": "Octopus",
       "description": "Use hands and feet to touch buttons, stretch yourself like a octopus.",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg",
       "gamemodes": 10,
       "locations": ["Southland"],
       "href": "/octopus"
