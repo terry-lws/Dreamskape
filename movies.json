@@ -3,7 +3,7 @@
     {
       "id": "dreamverse",
       "name": "Dreamverse",
-      "description": "",
+      "description": "Step beyond the screen with DreamVerse, an immersive naked-eye 3D cinema experience. Explore breathtaking worlds and cinematic adventures with no 3D glasses or VR headset required.",
       "video": "https://www.dreamskape.com.au/s/dreamgames.mp4",
       "fallback-image":"",
       "duration": "20 minutes",
@@ -14,7 +14,7 @@
     {
       "id": "dreamcoaster",
       "name": "Dreamcoaster",
-      "description": "",
+      "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure",
       "video": "https://www.dreamskape.com.au/s/dreamgames.mp4",
       "fallback-image":"",
       "duration": "10-15 minutes",
