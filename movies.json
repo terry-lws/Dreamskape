@@ -7,8 +7,8 @@
       "video": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2b4dcdf2-b8d9-4f42-be55-b9876cfa8091/IMG_5892.JPG",
       "duration": "20 minutes",
       "thrill": "★",
-      "motion": "No",
-      "locations": ["Docklands", "Knox"]
+      "motion": "X",
+      "locations": ["Docklands"]
     },
     {
       "id": "dreamcoaster",
@@ -17,8 +17,8 @@
       "video": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg",
       "duration": "10-15 minutes",
       "thrill": "★★★",
-      "motion": "Yes",
-      "locations": ["Docklands"]
+      "motion": "✓",
+      "locations": ["Docklands", "Knox"]
     }
   ]
 }
