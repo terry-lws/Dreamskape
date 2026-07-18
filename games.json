@@ -23,6 +23,7 @@
     {
       "id": "spot-it",
       "name": "Spot It",
+      "badge": "popular",
       "description": "Push different wall light buttons according to the chosen game mode.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/65cdba1b-f3d7-414a-9229-3dffcf7aaa71/SPOT-IT-frames_5.1.1+Large.jpeg",
       "gamemodes": 10,
