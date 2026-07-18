@@ -36,7 +36,7 @@
       "description": "Catch the lights by spinning the floor and matching the lights to the coloured marks on the floor.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/27ad9aff-343f-431f-8c6d-f177dabc656b/41730080545_.pic_hd.jpg",
       "gamemodes": 1,
-      "locations": ["Docklands", "Knox", "Southland"],
+      "locations": ["Docklands", "Knox"],
       "href": "/spinit"
     },
     {
