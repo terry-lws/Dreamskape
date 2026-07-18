@@ -100,9 +100,9 @@
     {
       "id": "ds-west-lakes",
       "name": "Adelaide (coming soon)",
-      "address": "SA",
+      "address": "",
       "suburb": "Adelaide",
-      "mall": "",
+      "mall": "SA",
       "price": "",
       "features": [],
       "attractionsLink":"/west-lakes",
