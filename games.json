@@ -3,6 +3,7 @@
     {
       "id": "jumping-lattice",
       "name": "Jumping Lattice",
+      "badge": "",
       "description": "Step on blue lighted tiles while avoid moving red light tiles to complete the level.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2b4dcdf2-b8d9-4f42-be55-b9876cfa8091/IMG_5892.JPG",
       "gamemodes": 10,
@@ -40,7 +41,7 @@
       "id": "control-master",
       "name": "Control Master",
       "description": "Match arrows, jump on tiles, and hit corresponsing colours to win the game.",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6daaea93-18e6-45b5-8349-0477396b24b0/Dreamskape+Docklands+6.jpg?content-type=image%2Fjpeg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/7d0e4e1d-24f2-41dd-b289-5a67928307ed/WechatIMG9.jpg",
       "gamemodes": 10,
       "locations": ["Docklands"],
       "href": "/controlmaster"
@@ -49,7 +50,7 @@
       "id": "climb",
       "name": "Climb",
       "description": "A rock climbing game without the elements and equipment.",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/7d0e4e1d-24f2-41dd-b289-5a67928307ed/WechatIMG9.jpg",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/5622c39d-76cd-4857-b8d6-7d4eca8c9e86/IMG_6208.JPG",
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/climb"
@@ -58,7 +59,7 @@
       "id": "pipeball",
       "name": "Pipeball",
       "description": "Identify the correct portal, toss the ball to your teammate, and put it in the hole.",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/5622c39d-76cd-4857-b8d6-7d4eca8c9e86/IMG_6208.JPG",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/4d915133-5d01-47c5-943d-e2b60ec97522/%E9%80%89%E5%85%B3%E5%B1%8F%E4%B8%AD%E9%97%B4%E5%9B%BE-%E7%AE%A1%E9%81%93%E7%90%83%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B.png",
       "gamemodes": 10,
       "locations": ["Docklands"],
       "href": "/pipeball"

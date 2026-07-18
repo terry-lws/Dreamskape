@@ -7,7 +7,7 @@
       "video": "https://www.dreamskape.com.au/s/Dreamverse.mp4",
       "fallback-image":"",
       "duration": "20 minutes",
-      "thrill": "★",
+      "thrill": "O",
       "motion": "X",
       "locations": ["Docklands"]
     },
@@ -17,7 +17,7 @@
       "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
       "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
       "fallback-image":"",
-      "duration": "10-15 minutes",
+      "duration": "15 minutes",
       "thrill": "★★★",
       "motion": "✓",
       "locations": ["Docklands", "Knox"]
