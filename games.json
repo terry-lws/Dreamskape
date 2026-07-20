@@ -107,5 +107,48 @@
       "locations": ["Southland"],
       "href": "/octopus"
     }
+  ],
+  "spartan": [
+    {
+      "id": "conquer-obstacles",
+      "name": "Conquer Obstacles",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg"
+    },
+    {
+      "id": "collect-points",
+      "name": "Collect Points",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg"
+    },
+    {
+      "id": "challenging",
+      "name": "Challenging",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg"
+    },
+    {
+      "id": "competitive",
+      "name": "Competitive",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg"
+    },
+    {
+      "id": "dynamic-course",
+      "name": "Conquer Obstacles",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg"
+    },
+    {
+      "id": "climb-and-slide",
+      "name": "Climb & Slide",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg"
+    },
+    {
+      "id": "ar-drawing",
+      "name": "AR Drawing",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg"
+    },
+    {
+      "id": "interactive-ball-pit",
+      "name": "Interactive Ball Pit",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg"
+    }
+    
   ]
 }
