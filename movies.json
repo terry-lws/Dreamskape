@@ -2,7 +2,7 @@
   "nakedeye": [
     {
       "id": "dreamverse",
-      "name": "Dreamverse",
+      "name": "Dream Verse",
       "description": "Step beyond the screen with DreamVerse, an immersive naked-eye 3D cinema experience. Explore breathtaking worlds and cinematic adventures with no 3D glasses or VR headset required.",
       "video": "https://www.dreamskape.com.au/s/Dreamverse.mp4",
       "fallback-image":"",
@@ -13,7 +13,7 @@
     },
     {
       "id": "dreamcoaster",
-      "name": "Dreamcoaster",
+      "name": "Dream Coaster",
       "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
       "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
       "fallback-image":"",
