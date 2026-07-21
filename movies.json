@@ -26,7 +26,7 @@
       "id": "hurricane",
       "name": "Hurricane",
       "description": "Step beyond the screen with DreamVerse, an immersive naked-eye 3D cinema experience. Explore breathtaking worlds and cinematic adventures with no 3D glasses or VR headset required.",
-      "video": "https://www.dreamskape.com.au/s/Dreamverse.mp4",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/caba2e82-2dce-4fce-84b1-c8bd0b086f38/_E4A5507+Medium.png",
       "duration": "4 minutes",
       "thrill": "★★★★★",
       "motion": "✓",
@@ -36,7 +36,7 @@
       "id": "dreamride",
       "name": "Dreamride",
       "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
-      "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg",
       "duration": "6 minutes",
       "thrill": "★★★★",
       "motion": "✓",
@@ -46,7 +46,7 @@
       "id": "dreamflight",
       "name": "Dreamflight",
       "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
-      "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/16ac3a1e-d8bd-46d7-8959-4c95919ccd4f/WhatsApp+Image+2026-01-21+at+13.32.10.jpeg?content-type=image%2Fjpeg",
       "duration": "5 minutes",
       "thrill": "★★★",
       "motion": "✓",
@@ -56,7 +56,7 @@
       "id": "dreamswing",
       "name": "Dreamswing",
       "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
-      "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/abb47e01-d34f-4545-a562-38199fa69f9d/dream%2Bswing+Medium.png",
       "duration": "5 minutes",
       "thrill": "★★★",
       "motion": "✓",
@@ -189,6 +189,10 @@
       "location": "Knox"
   }
 ],
+
+
+
+
 "hurricanePosters": [{
       "id": "great-wall-of-china",
       "name": "Great Wall Of China",
@@ -200,6 +204,9 @@
       "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8af2a906-f4fa-40d2-8c4b-bf88dd091825/arabian_nights.jpeg"
   }
 ],
+
+
+
 "dreamridePosters": [{
       "id": "lightstone-guardian",
       "name": "Lightstone Guardian",
