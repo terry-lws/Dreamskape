@@ -73,7 +73,7 @@
       "name": "Cool Arena",
       "description": "Push different wall light buttons according to the chosen game mode.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/ab574a79-4e00-468a-866c-81a21ec8a9fe/%E9%80%89%E5%85%B3%E5%B1%8F%E4%B8%AD%E9%97%B4%E5%9B%BE-%E7%82%AB%E9%85%B7%E6%8A%95%E6%8E%B73.png",
-      "gamemodes": 10,
+      "gamemodes": 3,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/cool-arena"
     },
