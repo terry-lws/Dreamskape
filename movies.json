@@ -10,8 +10,6 @@
       "thrill": "O",
       "motion": "X",
       "locations": ["Docklands"]
-      "posters": ["https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png",
-      "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/46986093-5741-43f2-8471-05f61c4d2046/Image_20260108154014_780_9.png"]
     },
     {
       "id": "dreamcoaster",
@@ -24,5 +22,15 @@
       "motion": "✓",
       "locations": ["Docklands", "Knox"]
     }
-  ]
+  ],
+  "dreamversePosters": {
+      "id": "elf",
+      "name": "Elf Time",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/46986093-5741-43f2-8471-05f61c4d2046/Image_20260108154014_780_9.png"
+  },
+  {
+      "id": "mermaid",
+      "name": "Mermaid Ocean",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png"
+  }
 }
