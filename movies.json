@@ -3,9 +3,8 @@
     {
       "id": "dreamverse",
       "name": "Dream Verse",
-      "description": "Step beyond the screen with DreamVerse, an immersive naked-eye 3D cinema experience. Explore breathtaking worlds and cinematic adventures with no 3D glasses or VR headset required.",
+      "description": "Immersive naked-eye 3D cinema where breathtaking stories and adventures come to life without the need for 3D glasses or VR headsets.",
       "video": "https://www.dreamskape.com.au/s/Dreamverse.mp4",
-      "fallback-image":"",
       "duration": "20 minutes",
       "thrill": "O",
       "motion": "X",
@@ -14,15 +13,62 @@
     {
       "id": "dreamcoaster",
       "name": "Dream Coaster",
-      "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
+      "description": "Motion-simulated naked-eye 3D ride that combines stunning visuals, dynamic seat movement, and special effects for an unforgettable adventure.",
       "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
-      "fallback-image":"",
       "duration": "15 minutes",
       "thrill": "★★★",
       "motion": "✓",
       "locations": ["Docklands", "Knox"]
     }
   ],
+  "vr": [
+    {
+      "id": "hurricane",
+      "name": "Hurricane",
+      "description": "Step beyond the screen with DreamVerse, an immersive naked-eye 3D cinema experience. Explore breathtaking worlds and cinematic adventures with no 3D glasses or VR headset required.",
+      "video": "https://www.dreamskape.com.au/s/Dreamverse.mp4",
+      "duration": "4 minutes",
+      "thrill": "★★★★★",
+      "motion": "✓",
+      "locations": ["Docklands"]
+    },
+    {
+      "id": "dreamride",
+      "name": "Dreamride",
+      "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
+      "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
+      "duration": "6 minutes",
+      "thrill": "★★★★",
+      "motion": "✓",
+      "locations": ["Docklands", "Southland"]
+    },
+    {
+      "id": "dreamflight",
+      "name": "Dreamflight",
+      "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
+      "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
+      "duration": "5 minutes",
+      "thrill": "★★★",
+      "motion": "✓",
+      "locations": ["Southland"]
+    },
+    {
+      "id": "dreamswing",
+      "name": "Dreamswing",
+      "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
+      "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
+      "duration": "5 minutes",
+      "thrill": "★★★",
+      "motion": "✓",
+      "locations": ["Southland"]
+    }
+  ],
+
+
+
+
+
+
   "dreamversePosters": [{
       "id": "elf",
       "name": "Elf Time",
