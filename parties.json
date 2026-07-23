@@ -20,5 +20,98 @@
       "name": "Easy Planning",
       "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/ec1fa0f8-8ae2-4773-945f-483591136c41/Dreamskape+Docklands+17+Medium.png"
     }
+  ],
+
+
+
+  
+  "packages": [
+    {
+      "name": "Dream Explorer Party Package",
+      "badge": "All Locations",
+      "locations": ["Docklands", "Southland", "Knox"],
+      "button": "Book Now",
+      "highlight": false,
+      "features": [
+        {
+          "name": "Dream Activities",
+          "value": "1 Activity (75 mins)"
+        },
+        {
+          "name": "DreamGames / DreamSpartan",
+          "value": "Choose 1"
+        },
+        {
+          "name": "Movie Experience",
+          "value": "1 Movie of your choice"
+        },
+        {
+          "name": "Gift Bags",
+          "value": true
+        },
+        {
+          "name": "Personalised Projected Message",
+          "value": true
+        },
+        {
+          "name": "Dedicated Party Host",
+          "value": true
+        },
+        {
+          "name": "Maximum Players",
+          "value": "Up to 8"
+        },
+        {
+          "name": "Optional Add-ons",
+          "value": "Additional Movie Sessions"
+        }
+      ]
+    },
+    {
+      "name": "Super DreamStar Party Package",
+      "badge": "Docklands Exclusive",
+      "locations": ["Docklands"],
+      "button": "Book at Docklands",
+      "highlight": true,
+      "features": [
+        {
+          "name": "Dream Activities",
+          "value": "2 Activities (150 mins)"
+        },
+        {
+          "name": "DreamGames",
+          "value": "75 mins"
+        },
+        {
+          "name": "DreamSpartan",
+          "value": "75 mins"
+        },
+        {
+          "name": "Movie Experience",
+          "value": "1 Movie of your choice"
+        },
+        {
+          "name": "Gift Bags",
+          "value": true
+        },
+        {
+          "name": "Personalised Projected Message",
+          "value": true
+        },
+        {
+          "name": "Dedicated Party Host",
+          "value": true
+        },
+        {
+          "name": "Maximum Players",
+          "value": "Up to 8"
+        },
+        {
+          "name": "Optional Add-ons",
+          "value": "Additional Movie Sessions"
+        }
+      ]
+    }
   ]
 }
+
