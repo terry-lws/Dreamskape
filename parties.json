@@ -1,0 +1,24 @@
+{
+  "party-card": [
+    {
+      "id": "host",
+      "name": "Dedicated Host",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/9b95ab81-ea7d-4e01-a593-c389253011e1/WhatsApp+Image+2026-02-12+at+14.21.46.jpeg"
+    },
+    {
+      "id": "tailor-made",
+      "name": "Tailor-made Packages",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/e13d559f-a71f-442f-a917-99d7132424ee/LQC_5919+Medium.png"
+    },
+    {
+      "id": "all-age",
+      "name": "Suitable For Ages",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/f1f39890-8106-4ba1-b31e-dc2f490f99a0/Weixin+Image_20250817172635_7.jpg"
+    },
+    {
+      "id": "easy-planning",
+      "name": "Easy Planning",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/ec1fa0f8-8ae2-4773-945f-483591136c41/Dreamskape+Docklands+17+Medium.png"
+    }
+  ]
+}
