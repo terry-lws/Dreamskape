@@ -26,7 +26,7 @@
       "id": "hurricane",
       "name": "Hurricane",
       "description": "Step beyond the screen with DreamVerse, an immersive naked-eye 3D cinema experience. Explore breathtaking worlds and cinematic adventures with no 3D glasses or VR headset required.",
-      "video": "https://www.dreamskape.com.au/s/Dreamverse.mp4",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG",
       "duration": "4 minutes",
       "thrill": "★★★★★",
       "motion": "✓",
@@ -36,7 +36,7 @@
       "id": "dreamride",
       "name": "Dreamride",
       "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
-      "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg",
       "duration": "6 minutes",
       "thrill": "★★★★",
       "motion": "✓",
@@ -45,8 +45,8 @@
     {
       "id": "dreamflight",
       "name": "Dreamflight",
-      "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
-      "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
+      "description": "Soar through incredible virtual worlds in DreamFlight, an immersive VR flying adventure. Feel the freedom of flight as realistic motion brings every journey to life.",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/98103ece-216b-4d94-90de-40b115575b5a/dreamflight.jpeg",
       "duration": "5 minutes",
       "thrill": "★★★",
       "motion": "✓",
@@ -55,8 +55,8 @@
     {
       "id": "dreamswing",
       "name": "Dreamswing",
-      "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
-      "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
+      "description": "Swing, soar, and explore incredible virtual worlds with DreamSwing. This immersive VR adventure combines the thrill of a giant swing with breathtaking experiences and stunning views.",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/982491aa-1bda-47b0-a818-9edce146efda/dreamswing.jpeg",
       "duration": "5 minutes",
       "thrill": "★★★",
       "motion": "✓",
@@ -99,64 +99,245 @@
       "location": "Docklands"
   },
   {
-      "id": "mermaid",
-      "name": "Mermaid Ocean",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png",
+      "id": "the-adventure-of-dinosaur-island",
+      "name": "The Adventure Of Dinosaur Island",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/5d22edd9-8d4a-485a-ab52-4b2a8f22c9a0/the_adventure_of_dinosaur_island.png",
       "location": "Knox"
   },
   {
-      "id": "mermaid",
-      "name": "Mermaid Ocean",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png",
+      "id": "wild-star-adventure",
+      "name": "Wild Star Adventure",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/e75cdc0e-e02d-4a03-bcab-944f823cfebd/wild_star_adventure.png",
       "location": "Knox"
   },
   {
-      "id": "mermaid",
-      "name": "Mermaid Ocean",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png",
+      "id": "the-polar-adventure",
+      "name": "The Polar Adventure",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/f289142e-9ac5-4458-bd66-59898dfa6d89/the_polar_adventure.png",
       "location": "Knox"
   },
   {
-      "id": "mermaid",
-      "name": "Mermaid Ocean",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png",
+      "id": "travel-to-desolate-planet",
+      "name": "Travel To Desolate Planet",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/fee62a77-ca34-45f3-9e05-0c40c66c2f28/travel_to_desolate_planet.png",
       "location": "Knox"
   },
   {
-      "id": "mermaid",
-      "name": "Mermaid Ocean",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png",
+      "id": "cracking-canyon",
+      "name": "Cracking Canyon",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/00dad9da-0aff-43bc-b597-c889f364dd93/cracking_canyon.png",
       "location": "Knox"
   },
   {
-      "id": "mermaid",
-      "name": "Mermaid Ocean",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png",
+      "id": "superwings-wonderland",
+      "name": "Superwings Wonderland",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6e5dbbe7-c932-42bf-95e7-906e38b0fc5c/superwings_winderland.png",
       "location": "Knox"
   },
   {
-      "id": "mermaid",
-      "name": "Mermaid Ocean",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png",
+      "id": "deep-blue-sea",
+      "name": "Deep Blue Sea",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/146ca816-34d4-4fb1-aca6-bde3efab917e/deep_blue_sea.png",
       "location": "Knox"
   },
   {
-      "id": "mermaid",
-      "name": "Mermaid Ocean",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png",
+      "id": "steam-rampage",
+      "name": "Steam Rampage",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/766f86d4-7564-40ad-9971-ad87df0baa4c/steam_rampage.png",
       "location": "Knox"
   },
   {
-      "id": "mermaid",
-      "name": "Mermaid Ocean",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png",
+      "id": "the-grand-robbery",
+      "name": "The Grand Robbery",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/98f531a0-78f5-4b65-b8d6-47759a95a00c/the_grand_robbery.png",
       "location": "Knox"
   },
   {
-      "id": "mermaid",
-      "name": "Mermaid Ocean",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png",
+      "id": "the-land-of-warriors-forest-adventure",
+      "name": "The Land Of Warriors Forest Adventure",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/5b72518e-b673-43ea-ab14-212d3ee1fa99/the_land_of_warriors_forest_adventure.png",
       "location": "Knox"
+  },
+  {
+      "id": "doomsday-city",
+      "name": "Doomsday City",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/923e268c-e7c8-4c2c-8943-134813b159b4/doomsday_city.png",
+      "location": "Knox"
+  },
+  {
+      "id": "ghost-king-championship",
+      "name": "Ghost King Championship",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/d528473b-aebd-43a7-be3e-9b1aa1490a9e/ghostking_championship.png",
+      "location": "Knox"
+  },
+  {
+      "id": "adventure-of-snowy-mountain",
+      "name": "Adventure Of Snowy Mountain",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/f9862d66-3c31-4c1a-8fa5-0a265cb1be03/adventure_of_snowy_mountain.png",
+      "location": "Knox"
+  },
+  {
+      "id": "orangutan-mine",
+      "name": "Orangutan Mine",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/f4a9bcb3-3e8f-4165-bef5-2a9ee51fd4c5/orangutan_mine.png",
+      "location": "Knox"
+  },
+  {
+      "id": "fly-across-china",
+      "name": "Fly Across China",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/96c4ed1d-9368-4e65-8acc-5f7e882c8595/fly_across_china.png",
+      "location": "Knox"
+  }
+],
+
+
+
+
+"hurricanePosters": [{
+      "id": "great-wall-of-china",
+      "name": "Great Wall Of China",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7a5f6bea-e2e8-4c2b-8c17-e602552c4612/wall_of_china.jpeg"
+  },
+  {
+      "id": "arabian-nights",
+      "name": "Arabian Nights",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8af2a906-f4fa-40d2-8c4b-bf88dd091825/arabian_nights.jpeg"
+  }
+],
+
+
+
+"dreamridePosters": [{
+      "id": "lightstone-guardian",
+      "name": "Lightstone Guardian",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/edd06a28-f65f-4fa0-a0e8-2c61bba80cde/lightstone.jpeg"
+  },
+  {
+      "id": "the-ghosts-lost-journey",
+      "name": "The Ghost's Lost Journey",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/0472d26f-992b-45f1-870b-228028d9c576/ghost.jpeg"
+  },
+  {
+      "id": "desert-notes",
+      "name": "Desert Notes",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/6f34fb7f-ca70-4736-a107-b8ebd2187a3b/desert_notes.jpeg"
+  },
+  {
+      "id": "the-bachelor-party",
+      "name": "Aladdin The Bachelor Party",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7a65cb68-3995-4b3f-b6e5-de10df78f012/aladdin.jpeg"
+  },
+  {
+      "id": "interstellar-exploration",
+      "name": "Interstellar Exploration",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4a994756-36a4-413c-a92b-845862f567a0/interstellar.jpeg"
+  },
+  {
+      "id": "peter-pan",
+      "name": "Peter Pan Saving Tinkerbell",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/586360df-0e24-487a-ad0b-034d521e9768/peter_pan.jpeg"
+  },
+  {
+      "id": "mobby-dick",
+      "name": "Mobby Dick Friends To The Rescue",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/3c934d63-d827-4959-bd6b-12d3c76b7750/mobby_dick.jpeg"
+  },
+  {
+      "id": "the-deep",
+      "name": "The Deep",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/04b29cce-eaa0-449a-b42a-dcb4fb51d7f9/the_deep.jpeg"
+  },
+  {
+      "id": "black-hole",
+      "name": "Black Hole The Multiverse War",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/a3c75a7c-5970-42fd-a0b0-060c55eed551/black_hole.jpeg"
+  },
+  {
+      "id": "underground-city",
+      "name": "Underground City Exploration",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/06c2285e-6629-4f18-a3f6-1a86950947dd/underground_city.jpeg"
+  }
+],
+"dreamflightPosters": [{
+      "id": "ghost-castle",
+      "name": "Ghost Castle",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/37d40009-b87c-4444-a262-6b8538305824/WhatsApp+Image+2026-07-22+at+9.51.28+PM+%281%29.jpeg"
+  },
+  {
+      "id": "flying-dragon",
+      "name": "Flying Dragon Treasure Hunt",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/100f7f18-df48-48bf-bff4-7a3716583fc7/WhatsApp+Image+2026-07-22+at+9.51.29+PM+%284%29.jpeg"
+  },
+  {
+      "id": "insect-forest-invasion",
+      "name": "Insect Forest Invasion",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/23fc2b68-8c51-42c5-9218-26c43d7b89ce/WhatsApp+Image+2026-07-22+at+9.51.29+PM+%285%29.jpeg"
+  },
+  {
+      "id": "jurassic-mystery",
+      "name": "Jurassic Mystery",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/2aaa66c9-587e-4708-8da1-53c5d115a66e/WhatsApp+Image+2026-07-22+at+9.51.29+PM.jpeg"
+  },
+  {
+      "id": "absolute-defense",
+      "name": "Absolute Defense",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/42e2b393-79dd-40df-8f81-e55574769a98/WhatsApp+Image+2026-07-22+at+9.51.28+PM.jpeg"
+  },
+  {
+      "id": "dinosaur-islander",
+      "name": "Dinosaur Islander Adventure",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/20865872-decd-41c3-9fd6-3cb3bb5c291c/WhatsApp+Image+2026-07-22+at+9.51.29+PM+%282%29.jpeg"
+  },
+  {
+      "id": "legacy-of-hell",
+      "name": "Legacy Of Hell",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/056a976e-e1be-4b07-b952-004e282a9a51/WhatsApp+Image+2026-07-22+at+9.51.29+PM+%281%29.jpeg"
+  },
+  {
+      "id": "forest-pyramid",
+      "name": "Forest Pyramid",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/a0b8c2f0-a88d-4957-bc0f-d98fedea1dfc/WhatsApp+Image+2026-07-22+at+9.51.29+PM+%283%29.jpeg"
+  }
+],
+"dreamswingPosters": [{
+      "id": "crazy-big-sqing",
+      "name": "Crazy Big Swing",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/604dd0df-8145-4f1c-a828-774cbb79818a/WhatsApp+Image+2026-07-22+at+9.52.46+PM+%281%29.jpeg"
+  },
+  {
+      "id": "dubai-swing",
+      "name": "Dubai Swing",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/913676f1-08b5-4f26-85c9-769c95d819fb/WhatsApp+Image+2026-07-22+at+9.52.46+PM+%286%29.jpeg"
+  },
+  {
+      "id": "trip-to-verdon",
+      "name": "Trip To Verdon",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/2acc784b-9642-4d30-993a-8b484ed7362b/WhatsApp+Image+2026-07-22+at+9.52.46+PM+%287%29.jpeg"
+  },
+  {
+      "id": "grand-canyon",
+      "name": "Grand Canyon",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/758e84db-816a-4b8a-bafe-2749ccbf551c/WhatsApp+Image+2026-07-22+at+9.52.46+PM+%283%29.jpeg"
+  },
+  {
+      "id": "kyle",
+      "name": "Extraordinary Kyle",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/e642d153-49bb-4443-9467-9ed331568e9f/WhatsApp+Image+2026-07-22+at+9.52.46+PM+%284%29.jpeg"
+  },
+  {
+      "id": "kyle2",
+      "name": "Extraordinary Kyle 2",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7b5d916b-faf0-4b5c-b3a0-ce57eaaa7ba2/WhatsApp+Image+2026-07-22+at+9.52.46+PM+%285%29.jpeg"
+  },
+  {
+      "id": "lava-castle",
+      "name": "Lava Castle",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/2d29abb3-7023-43e2-85c1-3989f6cfd405/WhatsApp+Image+2026-07-22+at+9.52.46+PM+%282%29.jpeg"
+  },
+  {
+      "id": "civilization",
+      "name": "Civilization On The Swing",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/96aa0e0a-926b-40f9-9a20-fd2c5e7ca425/WhatsApp+Image+2026-07-22+at+9.52.46+PM.jpeg"
   }
 ]
 }
