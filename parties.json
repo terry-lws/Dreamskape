@@ -20,6 +20,149 @@
       "name": "Easy Planning",
       "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/ec1fa0f8-8ae2-4773-945f-483591136c41/Dreamskape+Docklands+17+Medium.png"
     }
-  ]
+  ],
+  "mealPacks": {
+    "docklands": {
+      "name": "Docklands",
+      "packs": [
+        {
+          "id": "meal-pack-a",
+          "name": "Meal Pack A",
+          "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/e665c269-14c0-4407-baa6-bda7b1314f8d/e675aad6-fce2-40e2-a1e8-e4344eef16e6.JPG",
+          "price": "$22",
+          "includes": [
+            "Chicken nuggets",
+            "Wedges",
+            "Corn dog",
+            "Spring rolls",
+            "Boneless Korean fried chicken",
+            "Jelly cup"
+          ]
+        },
+        {
+          "id": "meal-pack-b",
+          "name": "Meal Pack B",
+          "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/c72873a6-2c39-4f19-90b3-c30a3691b36b/9c3ed55d-24d2-4190-8a51-fef4097726a6.JPG",
+          "price": "$28",
+          "includes": [
+            "Chicken katsu wrap",
+            "Wedges",
+            "Onion rings",
+            "Spring rolls",
+            "Jelly cup"
+          ]
+        },
+        {
+          "id": "meal-pack-c",
+          "name": "Meal Pack C",
+          "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/b145b821-f34e-49d7-83bc-5706b3b0578c/b9584f6fd5ac82faacf647c35fe7b078.JPG",
+          "price": "$22",
+          "includes": [
+            "Spring rolls",
+            "Pan-fried pork dumpling",
+            "Sesame prawn toast",
+            "Siu Mai",
+            "Barbecue pork bun",
+            "Fried prawn dumpling",
+            "Rainbow jelly"
+          ]
+        },
+        {
+          "id": "meal-pack-d",
+          "name": "Meal Pack D",
+          "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/bc7128d3-b54b-487e-96f3-ebdf6f3d38c1/08cd5fe233c5dfb7a810ce30e8ce04bd.JPG",
+          "price": "$22",
+          "includes": [
+            "Garlic prawn roll",
+            "Fried wanton",
+            "BBQ pork puff",
+            "Spinach dumpling",
+            "Xiao Long Bao",
+            "Fried prawn dumpling",
+            "Jelly cup"
+          ]
+        }
+      ]
+    },
+    "knox": {
+      "name": "Knox",
+      "packs": [
+        {
+          "id": "spring-roll-combo",
+          "name": "Spring Roll Combo",
+          "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/92545e52-e259-45fe-8c6f-1b23cbf82a55/Rest+2+-+Meal+2+-+17PP.jpeg",
+          "price": "$17",
+          "includes": [
+            "2pcs deep fried spring rolls",
+            "4pcs chicken nuggets",
+            "4pcs Japanese beef gyoza",
+            "Small fries"
+          ]
+        },
+        {
+          "id": "fried-wonton-combo",
+          "name": "Fried Wonton Combo",
+          "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/50ce6974-38f6-44f4-a458-020694f6ae7c/Rest+2+-+Meal+1+-+23PP.jpeg",
+          "price": "$22",
+          "includes": [
+            "4pcs fried chicken wontons",
+            "6pcs chicken nuggets",
+            "6 pcs Japanese beef gyoza",
+            "Small fries"
+          ]
+        },
+        {
+          "id": "chicken-bao-combo",
+          "name": "Chicken Bao Combo",
+          "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/e79be324-901d-4b73-b7ef-716a489d016f/Rest+1+-+Meal+1+-+23PP.jpg",
+          "price": "$22",
+          "includes": [
+            "2 crispy chicken bao",
+            "Lychee Ribena sparkling drink",
+            "Mango pudding"
+          ]
+        },
+        {
+          "id": "rice-paper-roll-combo",
+          "name": "Rice Paper Roll Combo",
+          "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/4a56c4e0-7af7-458a-abe8-7e0f9fcdfa94/Rest+1+-+Meal+2+-+17PP.jpg",
+          "price": "$17",
+          "includes": [
+            "2 BBQ chicken rice paper rolls",
+            "2 mini spring rolls",
+            "Ice lemon tea"
+          ]
+        },
+        {
+          "id": "rice-paper-roll-platter",
+          "name": "Rice Paper Roll ",
+          "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a2849b25-7ba9-4cc0-ae53-3afd25cdf6b8/rprplatter.jpg",
+          "price": "$50",
+          "includes": [
+            "Assorted platter of pork, beef, and prawn rice paper rolls"
+          ]
+        }
+      ]
+    },
+    "southland": {
+      "name": "Southland",
+      "packs": [
+        {
+          "id": "dim-sum-feast",
+          "name": "Dim Sum Feast",
+          "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a8465d83-9b70-4f70-b2c8-4aec216eceaa/Image_20260211115607.jpg",
+          "price": "$22",
+          "includes": [
+            "Prawn dumpling",
+            "Pork & prawn shao mai",
+            "BBQ pork bun",
+            "Chicken dumpling",
+            "Crispy spring roll",
+            "Egg tart",
+            "Redbean sesame ball"
+          ]
+        }
+      ]
+    }
+  }
 }
-
