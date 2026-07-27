@@ -171,5 +171,34 @@
         }
       ]
     }
-  }
+  },
+  "lollyPacks": [
+    {
+      "id": "small-bag",
+      "Name": "Small Bag",
+      "includes": [
+        "1x Wicked Fizz",
+        "4x Zappo",
+        "3x TNT Sour Chews",
+        "3x Chew Candy Mega",
+        "1x Lollipop",
+        "1x Jelly Fruit"
+      ]
+    },
+    {
+      "id": "large-bag",
+      "Name": "Large Bag",
+      "includes": [
+        "1x Wizz Fizz",
+        "3x Jolly Rancher",
+        "1x TNT Sour Shock",
+        "4x Zappo",
+        "1x Wicked Fizz",
+        "3x TNT sour chews",
+        "3x Chew Candy Mega",
+        "1x Lollipop",
+        "1x Jelly Fruit"
+      ]
+    }
+  ]
 }
