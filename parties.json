@@ -189,7 +189,7 @@
     },
     {
       "id": "large-bag",
-      "Name": "Large Bag",
+      "name": "Large Bag",
       "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/cc3db623-fb81-49ea-a9e3-a6746dc0c0bd/large_lolly_pack.jpg",
       "price": "$5",
       "includes": [
