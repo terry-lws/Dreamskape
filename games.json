@@ -31,6 +31,16 @@
       "href": "/spot-it"
     },
     {
+      "id": "devils-eye",
+      "name": "Devil's Eye",
+      "badge": "popular",
+      "description": "Push different wall light buttons according to the chosen game mode.",
+      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/c4776c1b-8460-403d-bf24-1a41773aaa76/_O0A4646.jpg",
+      "gamemodes": 10,
+      "locations": ["Docklands", "Knox", "Southland"],
+      "href": "/game-rooms/devils-eye"
+    },
+    {
       "id": "spins",
       "name": "Spin It & Spin Up",
       "description": "Catch the lights by spinning the floor and matching the lights to the coloured marks on the floor.",
@@ -77,16 +87,7 @@
       "locations": ["Docklands", "Southland"],
       "href": "/cool-arena"
     },
-    {
-      "id": "devils-eye",
-      "name": "Devil's Eye",
-      "badge": "popular",
-      "description": "Push different wall light buttons according to the chosen game mode.",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/c4776c1b-8460-403d-bf24-1a41773aaa76/_O0A4646.jpg",
-      "gamemodes": 10,
-      "locations": ["Docklands", "Knox", "Southland"],
-      "href": "/game-rooms/devils-eye"
-    },
+    
     {
       "id": "lightning",
       "name": "Lightning",
