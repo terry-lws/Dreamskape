@@ -125,96 +125,14 @@
 
 
 
-  "package": [
-    {
-      "id": "dream-activity",
-      "name": "Dream Activity",
-      "desciption": "Choose one immersive activity from:",
-      "availableLocationId": [
-        "ds-docklands",
-        "ds-knox",
-        "ds-southland"
-      ]
-    },
-    {
-      "id": "dream-movie",
-      "name": "Dream Movie",
-      "desciption": "Choose one immersive activity from:",
-      "availableLocationId": [
-        "ds-docklands",
-        "ds-knox",
-        "ds-southland"
-      ]
-    },
-    {
-      "id": "dream-plus",
-      "name": "Dream Plus (1 Activity + 1 Movie)",
-      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 1 immersive activity and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
-      "availableLocationId": [
-        "ds-docklands",
-        "ds-knox",
-        "ds-southland"
-      ]
-    },
-    {
-      "id": "dream-rush",
-      "name": "Dream Rush (2 Activities + 1 Movie)",
-      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 2 immersive activities and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
-      "availableLocationId": [
-        "ds-docklands"
-      ]
-    }
-  ],
-
-
   
   "games": [
     {
-      "id": "dreamverse",
-      "name": "DreamVerse",
-      "category": "ride",
-      "description": "Welcome to the future of immersive storytelling! Powered by ultra-high resolution visuals that stretch from floor to ceiling, DreamVerse surrounds you in stunning 3D environments, no headset required!",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/75972233-789f-4f44-a9cd-10cd92d500f1/DSC09891.jpg?format=750w",
-      "availableLocationId": [
-        "ds-docklands"
-      ]
-    },
-    {
-      "id": "dreamcoaster",
-      "name": "DreamCoaster",
-      "category": "ride",
-      "description": "Get ready for a thrilling ride packed with twists, turns, and surprise sensations like bubbles and sprays. Zoom past playful creatures and magical landmarks in an immersive world full of fun and adventure.",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/3194f3a7-ede5-47fc-90cc-fc8b4ffaaabd/Coaster+%282%29.jpg?format=750w",
-      "availableLocationId": [
-        "ds-docklands",
-        "ds-knox"
-      ]
-    },
-    {
-      "id": "dreamride",
-      "name": "DreamRide",
-      "category": "ride",
-      "description": "Designed to engage all five senses, DreamRide uses cutting-edge Virtual Reality technology that features 9D motion to fully immerse you in the ride. Each bike moves with the action, while wind, fog, water, and even scents hit at just the right moment. Get ready for a wild, unforgettable ride through worlds that feel totally real!",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg?format=750w",
-      "availableLocationId": [
-        "ds-southland"
-      ]
-    },
-    {
-      "id": "hurricane",
-      "name": "Hurricane",
-      "category": "ride",
-      "description": "Hurricane is the highlight of Dreamrace's VR experience. This four-seat, seven-axis motion ride is equipped with a 360-degree rotation capability, making it a 7DOF (Degrees of Freedom) experience. ",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG?format=750w",
-      "availableLocationId": [
-        "ds-docklands"
-      ]
-    },
-    {
       "id": "dreamgames",
-      "name": "DreamGames",
+      "name": "Dream Games",
       "category": "activity",
       "description": "Explore immersive game rooms packed with interactive puzzles, challenges, and surprises. Team up with family and friends to solve tasks that require cooperation, quick thinking, and solid teamwork. It's the perfect mix of family fun and team-building excitement!",
+      "href": "https://www.dreamskape.com.au/interactive-challenge-rooms",
       "imageSrc": {
         "ds-docklands":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?content-type=image%2Fjpeg",
         "ds-knox":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7ed694dc-4250-4d5a-8177-d96f4a4e3a70/IMG_6207.JPG?content-type=image%2Fjpeg",
@@ -228,35 +146,91 @@
     },
     {
       "id": "dreamspartan",
-      "name": "DreamSpartan",
+      "name": "Spartan",
       "category": "activity",
       "description": "Dash, dodge, and hang on as moving walls and shifting platforms try to knock you off course. These high-energy obstacle courses challenge kids to stay focused, think fast, and push through to the finish it all off with a high-speed slide!",
+      "href": "https://www.dreamskape.com.au/smart-obstacle-arena",
       "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/17c068d3-c09c-404b-b60a-438eef687a9c/Spartan.jpg?format=750w",
       "availableLocationId": [
         "ds-docklands"
       ]
     },
     {
-      "id": "dreamswing",
-      "name": "DreamSwing",
+      "id": "dreamverse",
+      "name": "Dream Verse",
       "category": "ride",
-      "description": "Dream Swing is an immersive VR entertainment machine that integrates virtual reality technology and a dynamic simulation platform. The device supports multiple virtual scene switching, such as forest crossing, flying in the air, gliding in the future city, etc., suitable for players of all ages to experience.",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/097a2b4f-48c8-4154-85b3-eaadbec30665/Screenshot+2025-12-12+at+16.27.10.png?format=750w",
+      "description": "Welcome to the future of immersive storytelling! Powered by ultra-high resolution visuals that stretch from floor to ceiling, DreamVerse surrounds you in stunning 3D environments, no headset required!",
+      "href": "https://www.dreamskape.com.au/naked-eye-3d-cinema",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/75972233-789f-4f44-a9cd-10cd92d500f1/DSC09891.jpg?format=750w",
       "availableLocationId": [
+        "ds-docklands"
+      ]
+    },
+    {
+      "id": "dreamcoaster",
+      "name": "Dream Coaster",
+      "category": "ride",
+      "description": "Get ready for a thrilling ride packed with twists, turns, and surprise sensations like bubbles and sprays. Zoom past playful creatures and magical landmarks in an immersive world full of fun and adventure.",
+      "href": "https://www.dreamskape.com.au/naked-eye-3d-cinema",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/3194f3a7-ede5-47fc-90cc-fc8b4ffaaabd/Coaster+%282%29.jpg?format=750w",
+      "availableLocationId": [
+        "ds-docklands",
+        "ds-knox"
+      ]
+    },
+    {
+      "id": "hurricane",
+      "name": "Hurricane",
+      "category": "ride",
+      "description": "Hurricane is the highlight of Dreamrace's VR experience. This four-seat, seven-axis motion ride is equipped with a 360-degree rotation capability, making it a 7DOF (Degrees of Freedom) experience. ",
+      "href": "https://www.dreamskape.com.au/vr-rides",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG?format=750w",
+      "availableLocationId": [
+        "ds-docklands"
+      ]
+    },
+    {
+      "id": "dreamride",
+      "name": "Dreamride",
+      "category": "ride",
+      "description": "Designed to engage all five senses, DreamRide uses cutting-edge Virtual Reality technology that features 9D motion to fully immerse you in the ride. Each bike moves with the action, while wind, fog, water, and even scents hit at just the right moment. Get ready for a wild, unforgettable ride through worlds that feel totally real!",
+      "href": "https://www.dreamskape.com.au/vr-rides",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg?format=750w",
+      "availableLocationId": [
+        "ds-docklands",
         "ds-southland"
       ]
     },
     {
       "id": "dreamflight",
-      "name": "DreamFlight",
+      "name": "Dream Flight",
       "category": "ride",
       "description": "Dream Flight is an advanced virtual reality flight simulator, providing two-person seating and perfectly replicating the cockpit of a fighter jet, designed for flight enthusiasts and gamers. It centers on a highly simulated flying fighter driving experience, allowing players to immerse themselves in the excitement and thrill of aerial combat. The flight simulator has a variety of built-in air games, including shooting interactive buttons, so that you can have intense and exciting air shooting interaction with your friends.",
+      "href": "https://www.dreamskape.com.au/vr-rides",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/16ac3a1e-d8bd-46d7-8959-4c95919ccd4f/WhatsApp+Image+2026-01-21+at+13.32.10.jpeg?content-type=image%2Fjpeg",
+      "availableLocationId": [
+        "ds-southland"
+      ]
+    },
+    {
+      "id": "dreamswing",
+      "name": "Dream Swing",
+      "category": "ride",
+      "description": "Dream Swing is an immersive VR entertainment machine that integrates virtual reality technology and a dynamic simulation platform. The device supports multiple virtual scene switching, such as forest crossing, flying in the air, gliding in the future city, etc., suitable for players of all ages to experience.",
+      "href": "https://www.dreamskape.com.au/vr-rides",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/097a2b4f-48c8-4154-85b3-eaadbec30665/Screenshot+2025-12-12+at+16.27.10.png?format=750w",
       "availableLocationId": [
         "ds-southland"
       ]
     }
   ],
+
+
+
+
+
+
+
 
 
 
@@ -307,6 +281,51 @@
         "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg?content-type=image%2Fjpeg",
         "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/d8494428-353c-4314-92b9-bf8947582d49/dream+swing.png?content-type=image%2Fpng",
         "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/16ac3a1e-d8bd-46d7-8959-4c95919ccd4f/WhatsApp+Image+2026-01-21+at+13.32.10.jpeg?content-type=image%2Fjpeg"
+      ]
+    }
+  ],
+
+
+
+
+
+  "package": [
+    {
+      "id": "dream-activity",
+      "name": "Dream Activity",
+      "desciption": "Choose one immersive activity from:",
+      "availableLocationId": [
+        "ds-docklands",
+        "ds-knox",
+        "ds-southland"
+      ]
+    },
+    {
+      "id": "dream-movie",
+      "name": "Dream Movie",
+      "desciption": "Choose one immersive activity from:",
+      "availableLocationId": [
+        "ds-docklands",
+        "ds-knox",
+        "ds-southland"
+      ]
+    },
+    {
+      "id": "dream-plus",
+      "name": "Dream Plus (1 Activity + 1 Movie)",
+      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 1 immersive activity and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
+      "availableLocationId": [
+        "ds-docklands",
+        "ds-knox",
+        "ds-southland"
+      ]
+    },
+    {
+      "id": "dream-rush",
+      "name": "Dream Rush (2 Activities + 1 Movie)",
+      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 2 immersive activities and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
+      "availableLocationId": [
+        "ds-docklands"
       ]
     }
   ]
