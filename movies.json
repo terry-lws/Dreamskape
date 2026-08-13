@@ -67,7 +67,7 @@
         },
         {
             "id": "dreamflight",
-            "name": "Dreamflight",
+            "name": "Dream Flight",
             "description": "Soar through incredible virtual worlds in DreamFlight, an immersive VR flying adventure. Feel the freedom of flight as realistic motion brings every journey to life.",
             "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/98103ece-216b-4d94-90de-40b115575b5a/dreamflight.jpeg",
             "duration": "5 minutes",
@@ -79,7 +79,7 @@
         },
         {
             "id": "dreamswing",
-            "name": "Dreamswing",
+            "name": "Dream Swing",
             "description": "Swing, soar, and explore incredible virtual worlds with DreamSwing. This immersive VR adventure combines the thrill of a giant swing with breathtaking experiences and stunning views.",
             "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/982491aa-1bda-47b0-a818-9edce146efda/dreamswing.jpeg",
             "duration": "5 minutes",
