@@ -7,6 +7,7 @@
             "video": "https://www.dreamskape.com.au/s/Dreamverse.mp4",
             "duration": "20 minutes",
             "thrill": "★",
+            "age": "Suitable for young kids",
             "motion": "X",
             "locations": [
                 "Docklands"
@@ -19,6 +20,7 @@
             "video": "https://www.dreamskape.com.au/s/Dreamcoaster.mp4",
             "duration": "15 minutes",
             "thrill": "★★★",
+            "age": "Children must be over 3 years of age to participate",
             "motion": "✓",
             "locations": [
                 "Docklands",
