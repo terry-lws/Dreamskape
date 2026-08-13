@@ -61,7 +61,7 @@
       "bookingLink": "https://dreamskape.outgrow.us/dreamskape-3",
       "phone": ["(03) 7302 0445"],
       "email": "southlandadmin@dreamskape.com.au",
-      "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8946c0e6-31d4-4d5d-b913-7776339b12f3/3963.jpg?content-type=image%2Fpng",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg",
       "hours": {
         "monday": "11:00 am - 8:30 pm",
         "tuesday": "11:00 am - 8:30 pm",
@@ -218,7 +218,7 @@
       "category": "ride",
       "description": "Dream Swing is an immersive VR entertainment machine that integrates virtual reality technology and a dynamic simulation platform. The device supports multiple virtual scene switching, such as forest crossing, flying in the air, gliding in the future city, etc., suitable for players of all ages to experience.",
       "href": "https://www.dreamskape.com.au/vr-rides",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/097a2b4f-48c8-4154-85b3-eaadbec30665/Screenshot+2025-12-12+at+16.27.10.png?format=750w",
+      "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/982491aa-1bda-47b0-a818-9edce146efda/dreamswing.jpeg",
       "availableLocationId": [
         "ds-southland"
       ]
