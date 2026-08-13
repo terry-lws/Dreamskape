@@ -2,33 +2,33 @@
   "centreInfo": [
     {
       "id": "ds-docklands",
-      "name": "Docklands",
-      "address": "37 Star Crescent, Docklands VIC 3000",
+      "name": "Dreamskape Docklands",
+      "address": "Level 1 27-37 Star Crescent, Docklands VIC 3000",
       "suburb": "Docklands",
       "mall": "The District Docklands",
       "price": 20,
       "features": ["Naked-eye 3D","Challenge Game Rooms","Obstacle Course","VR Rides"],
       "attractionsLink":"/docklands",
       "bookingLink": "https://dreamskape.outgrow.us/dreamskape-3",
-      "phone": "(03) 9969 2663",
+      "phone": ["(03) 9969 2663", "(03) 7302 0028"],
       "email": "admin@dreamskape.com.au",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/804b698a-4e6c-4c09-9344-7ce6ed813417/DSC01172.jpg?content-type=image%2Fjpeg",
       "hours": {
-        "monday": "11:00 am - 7:00 pm",
-        "tuesday": "11:00 am - 7:00 pm",
-        "wednesday": "11:00 am - 7:00 pm",
-        "thursday": "11:00 am - 7:00 pm",
-        "friday": "11:00 am - 8:30 pm",
-        "saturday": "10:00 am - 10:00 pm",
-        "sunday": "10:00 am - 8:30 pm"
+        "monday": "11:00 am - 6:30 pm",
+        "tuesday": "11:00 am - 6:30 pm",
+        "wednesday": "11:00 am - 6:30 pm",
+        "thursday": "11:00 am - 6:30 pm",
+        "friday": "11:00 am - 8:00 pm",
+        "saturday": "10:00 am - 9:30 pm",
+        "sunday": "10:00 am - 8:00 pm"
       },
       "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.021694355649!2d144.9348373120899!3d-37.81296083387633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d17e4136b51%3A0x9552e3b5d259895e!2sDreamskape!5e0!3m2!1sen!2sau!4v1776856793323!5m2!1sen!2sau"
     },
     {
       "id": "ds-knox",
-      "name": "Knox",
+      "name": "Dreamskape Knox",
       "address": "Shop 3207/425 Burwood Highway, Wantirna South VIC 3152",
-      "phone": "(03) 8820 6568",
+      "phone": ["(03) 8820 6568"],
       "email": "knoxadmin@dreamskape.com.au",
       "suburb": "Wantirna South",
       "mall": "Westfiled Knox",
@@ -38,20 +38,20 @@
       "bookingLink": "https://dreamskape.outgrow.us/dreamskape-3",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/9084b070-515c-40ec-809c-c05cd70b9d21/Knox+front.png?content-type=image%2Fpng",
       "hours": {
-        "monday": "11:00 am - 9:00 pm",
-        "tuesday": "11:00 am - 9:00 pm",
-        "wednesday": "11:00 am - 9:00 pm",
-        "thursday": "11:00 am - 9:00 pm",
-        "friday": "11:00 am - 9:00 pm",
-        "saturday": "11:00 am - 9:00 pm",
-        "sunday": "11:00 am - 9:00 pm"
+        "monday": "11:00 am - 8:30 pm",
+        "tuesday": "11:00 am - 8:30 pm",
+        "wednesday": "11:00 am - 8:30 pm",
+        "thursday": "11:00 am - 8:30 pm",
+        "friday": "11:00 am - 8:30 pm",
+        "saturday": "11:00 am - 8:30 pm",
+        "sunday": "11:00 am - 8:30 pm"
       },
       "googleMapsLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3149.6293313389815!2d145.2396297120924!3d-37.868962637078766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad63d39e4b4ab09%3A0x553a764f4b103ffd!2sDreamskape%20Knox!5e0!3m2!1sen!2sau!4v1776857062175!5m2!1sen!2sau"
     
     },
     {
       "id": "ds-southland",
-      "name": "Southland",
+      "name": "Dreamskape Southland",
       "address": "Shop 2089/1239 Nepean Highway, Cheltenham VIC 3192",
       "suburb": "Cheltenham",
       "mall": "Westfield Southland",
@@ -59,17 +59,17 @@
       "features": ["Challenge Game Rooms","VR Rides", "Open Late"],
       "attractionsLink":"/southland",
       "bookingLink": "https://dreamskape.outgrow.us/dreamskape-3",
-      "phone": "(03) 7302 0445",
+      "phone": ["(03) 7302 0445"],
       "email": "southlandadmin@dreamskape.com.au",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8946c0e6-31d4-4d5d-b913-7776339b12f3/3963.jpg?content-type=image%2Fpng",
       "hours": {
-        "monday": "11:00 am - 9:00 pm",
-        "tuesday": "11:00 am - 9:00 pm",
-        "wednesday": "11:00 am - 9:00 pm",
-        "thursday": "11:00 am - 9:00 pm",
-        "friday": "11:00 am - 9:00 pm",
-        "saturday": "11:00 am - 9:00 pm",
-        "sunday": "11:00 am - 9:00 pm"
+        "monday": "11:00 am - 8:30 pm",
+        "tuesday": "11:00 am - 8:30 pm",
+        "wednesday": "11:00 am - 8:30 pm",
+        "thursday": "11:00 am - 8:30 pm",
+        "friday": "11:00 am - 8:30 pm",
+        "saturday": "11:00 am - 8:30 pm",
+        "sunday": "11:00 am - 8:30 pm"
       },
 "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.7935401079967!2d145.05123631209642!3d-37.95860644221393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d7cf747523f%3A0xaf0f759e2936470d!2sDreamskape%20Southland!5e0!3m2!1sen!2sau!4v1776857025697!5m2!1sen!2sau"    
     },
@@ -87,13 +87,13 @@
       "email": "",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/0d241bf0-94a9-4761-ad53-946f7acdfb87/Dreamskape+concept+design%EF%BC%882026.04.07%EF%BC%89.pptx+%282%29.png?content-type=image%2Fpng",
       "hours": {
-        "monday": "11:00 am - 9:00 pm",
-        "tuesday": "11:00 am - 9:00 pm",
-        "wednesday": "11:00 am - 9:00 pm",
-        "thursday": "11:00 am - 9:00 pm",
-        "friday": "11:00 am - 9:00 pm",
-        "saturday": "11:00 am - 9:00 pm",
-        "sunday": "11:00 am - 9:00 pm"
+        "monday": "11:00 am - 8:30 pm",
+        "tuesday": "11:00 am - 8:30 pm",
+        "wednesday": "11:00 am - 8:30 pm",
+        "thursday": "11:00 am - 8:30 pm",
+        "friday": "11:00 am - 8:30 pm",
+        "saturday": "11:00 am - 8:30 pm",
+        "sunday": "11:00 am - 8:30 pm"
       },
 "googleMapsLink": ""    
     },
@@ -111,13 +111,13 @@
       "email": "",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/b839d15e-6197-414f-a7ca-9cab5d48466f/Dreamskape+concept+design%EF%BC%882026.04.07%EF%BC%89.pptx+%283%29.png?content-type=image%2Fpng",
       "hours": {
-        "monday": "11:00 am - 9:00 pm",
-        "tuesday": "11:00 am - 9:00 pm",
-        "wednesday": "11:00 am - 9:00 pm",
-        "thursday": "11:00 am - 9:00 pm",
-        "friday": "11:00 am - 9:00 pm",
-        "saturday": "11:00 am - 9:00 pm",
-        "sunday": "11:00 am - 9:00 pm"
+        "monday": "11:00 am - 8:30 pm",
+        "tuesday": "11:00 am - 8:30 pm",
+        "wednesday": "11:00 am - 8:30 pm",
+        "thursday": "11:00 am - 8:30 pm",
+        "friday": "11:00 am - 8:30 pm",
+        "saturday": "11:00 am - 8:30 pm",
+        "sunday": "11:00 am - 8:30 pm"
       },
 "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.7935401079967!2d145.05123631209642!3d-37.95860644221393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d7cf747523f%3A0xaf0f759e2936470d!2sDreamskape%20Southland!5e0!3m2!1sen!2sau!4v1776857025697!5m2!1sen!2sau"    
     }
