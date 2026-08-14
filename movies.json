@@ -33,7 +33,7 @@
             "id": "hurricane",
             "name": "Hurricane",
             "description": "Step beyond the screen with DreamVerse, an immersive naked-eye 3D cinema experience. Explore breathtaking worlds and cinematic adventures with no 3D glasses or VR headset required.",
-            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG",
+            "video": "https://www.dreamskape.com.au/s/hurricane.mp4",
             "gallery": [
                 {
                     "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG"
@@ -56,7 +56,7 @@
             "id": "dreamride",
             "name": "Dreamride",
             "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
-            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg",
+            "video": "https://www.dreamskape.com.au/s/Dreamride.mp4",
             "duration": "6 minutes",
             "thrill": "★★★★",
             "motion": "✓",
@@ -69,7 +69,7 @@
             "id": "dreamflight",
             "name": "Dream Flight",
             "description": "Soar through incredible virtual worlds in DreamFlight, an immersive VR flying adventure. Feel the freedom of flight as realistic motion brings every journey to life.",
-            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/98103ece-216b-4d94-90de-40b115575b5a/dreamflight.jpeg",
+            "video": "https://www.dreamskape.com.au/s/Dreamflight.mp4",
             "duration": "5 minutes",
             "thrill": "★★★",
             "motion": "✓",
@@ -81,7 +81,7 @@
             "id": "dreamswing",
             "name": "Dream Swing",
             "description": "Swing, soar, and explore incredible virtual worlds with DreamSwing. This immersive VR adventure combines the thrill of a giant swing with breathtaking experiences and stunning views.",
-            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/982491aa-1bda-47b0-a818-9edce146efda/dreamswing.jpeg",
+            "video": "https://www.dreamskape.com.au/s/dreamswing.mp4",
             "duration": "5 minutes",
             "thrill": "★★★",
             "motion": "✓",
