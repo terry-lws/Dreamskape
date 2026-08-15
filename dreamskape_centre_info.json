@@ -61,7 +61,7 @@
       "bookingLink": "https://dreamskape.outgrow.us/dreamskape-3",
       "phone": ["(03) 7302 0445"],
       "email": "southlandadmin@dreamskape.com.au",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg",
+      "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8946c0e6-31d4-4d5d-b913-7776339b12f3/3963.jpg?content-type=image%2Fpng",
       "hours": {
         "monday": "11:00 am - 8:30 pm",
         "tuesday": "11:00 am - 8:30 pm",
@@ -136,7 +136,7 @@
       "imageSrc": {
         "ds-docklands":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?content-type=image%2Fjpeg",
         "ds-knox":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7ed694dc-4250-4d5a-8177-d96f4a4e3a70/IMG_6207.JPG?content-type=image%2Fjpeg",
-        "ds-southland":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/5622c39d-76cd-4857-b8d6-7d4eca8c9e86/IMG_6208.JPG?content-type=image%2Fjpeg"
+        "ds-southland":"https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg"
       },
       "availableLocationId": [
         "ds-docklands",
