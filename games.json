@@ -6,6 +6,11 @@
       "badge": "popular",
       "description": "Step on blue lighted tiles while avoid moving red light tiles to complete the level.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2b4dcdf2-b8d9-4f42-be55-b9876cfa8091/IMG_5892.JPG",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/45d807d2-31d8-4566-833f-30719c352a86/DSC01148.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/1d1a9a9a-9630-4fbe-8381-84b5f4c23c79/Jumping-Lattice_Frame+Grab_1.jpg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8f4fc4d1-773f-48f3-b96a-2d98d489ee79/jumping_lattice.jpeg"
+      ],
       "gamemodes": 33,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/jumping-lattice-instructions"
@@ -108,6 +113,11 @@
       "href": "/octopus"
     }
   ],
+
+
+
+
+
   "spartan": [
     {
       "id": "conquer-obstacles",
