@@ -2,33 +2,33 @@
   "centreInfo": [
     {
       "id": "ds-docklands",
-      "name": "Docklands",
-      "address": "37 Star Crescent, Docklands VIC 3000",
+      "name": "Dreamskape Docklands",
+      "address": "Level 1 27-37 Star Crescent, Docklands VIC 3008",
       "suburb": "Docklands",
       "mall": "The District Docklands",
       "price": 20,
       "features": ["Naked-eye 3D","Challenge Game Rooms","Obstacle Course","VR Rides"],
       "attractionsLink":"/docklands",
       "bookingLink": "https://dreamskape.outgrow.us/dreamskape-3",
-      "phone": "(03) 9969 2663",
+      "phone": ["(03) 9969 2663", "(03) 7302 0028"],
       "email": "admin@dreamskape.com.au",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/804b698a-4e6c-4c09-9344-7ce6ed813417/DSC01172.jpg?content-type=image%2Fjpeg",
       "hours": {
-        "monday": "11:00 am - 7:00 pm",
-        "tuesday": "11:00 am - 7:00 pm",
-        "wednesday": "11:00 am - 7:00 pm",
-        "thursday": "11:00 am - 7:00 pm",
-        "friday": "11:00 am - 8:30 pm",
-        "saturday": "10:00 am - 10:00 pm",
-        "sunday": "10:00 am - 8:30 pm"
+        "monday": "11:00 am - 6:30 pm",
+        "tuesday": "11:00 am - 6:30 pm",
+        "wednesday": "11:00 am - 6:30 pm",
+        "thursday": "11:00 am - 6:30 pm",
+        "friday": "11:00 am - 8:00 pm",
+        "saturday": "10:00 am - 9:30 pm",
+        "sunday": "10:00 am - 8:00 pm"
       },
       "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.021694355649!2d144.9348373120899!3d-37.81296083387633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d17e4136b51%3A0x9552e3b5d259895e!2sDreamskape!5e0!3m2!1sen!2sau!4v1776856793323!5m2!1sen!2sau"
     },
     {
       "id": "ds-knox",
-      "name": "Knox",
+      "name": "Dreamskape Knox",
       "address": "Shop 3207/425 Burwood Highway, Wantirna South VIC 3152",
-      "phone": "(03) 8820 6568",
+      "phone": ["(03) 8820 6568"],
       "email": "knoxadmin@dreamskape.com.au",
       "suburb": "Wantirna South",
       "mall": "Westfiled Knox",
@@ -38,20 +38,20 @@
       "bookingLink": "https://dreamskape.outgrow.us/dreamskape-3",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/9084b070-515c-40ec-809c-c05cd70b9d21/Knox+front.png?content-type=image%2Fpng",
       "hours": {
-        "monday": "11:00 am - 9:00 pm",
-        "tuesday": "11:00 am - 9:00 pm",
-        "wednesday": "11:00 am - 9:00 pm",
-        "thursday": "11:00 am - 9:00 pm",
-        "friday": "11:00 am - 9:00 pm",
-        "saturday": "11:00 am - 9:00 pm",
-        "sunday": "11:00 am - 9:00 pm"
+        "monday": "11:00 am - 8:30 pm",
+        "tuesday": "11:00 am - 8:30 pm",
+        "wednesday": "11:00 am - 8:30 pm",
+        "thursday": "11:00 am - 8:30 pm",
+        "friday": "11:00 am - 8:30 pm",
+        "saturday": "11:00 am - 8:30 pm",
+        "sunday": "11:00 am - 8:30 pm"
       },
       "googleMapsLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3149.6293313389815!2d145.2396297120924!3d-37.868962637078766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad63d39e4b4ab09%3A0x553a764f4b103ffd!2sDreamskape%20Knox!5e0!3m2!1sen!2sau!4v1776857062175!5m2!1sen!2sau"
     
     },
     {
       "id": "ds-southland",
-      "name": "Southland",
+      "name": "Dreamskape Southland",
       "address": "Shop 2089/1239 Nepean Highway, Cheltenham VIC 3192",
       "suburb": "Cheltenham",
       "mall": "Westfield Southland",
@@ -59,17 +59,17 @@
       "features": ["Challenge Game Rooms","VR Rides", "Open Late"],
       "attractionsLink":"/southland",
       "bookingLink": "https://dreamskape.outgrow.us/dreamskape-3",
-      "phone": "(03) 7302 0445",
+      "phone": ["(03) 7302 0445"],
       "email": "southlandadmin@dreamskape.com.au",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8946c0e6-31d4-4d5d-b913-7776339b12f3/3963.jpg?content-type=image%2Fpng",
       "hours": {
-        "monday": "11:00 am - 9:00 pm",
-        "tuesday": "11:00 am - 9:00 pm",
-        "wednesday": "11:00 am - 9:00 pm",
-        "thursday": "11:00 am - 9:00 pm",
-        "friday": "11:00 am - 9:00 pm",
-        "saturday": "11:00 am - 9:00 pm",
-        "sunday": "11:00 am - 9:00 pm"
+        "monday": "11:00 am - 8:30 pm",
+        "tuesday": "11:00 am - 8:30 pm",
+        "wednesday": "11:00 am - 8:30 pm",
+        "thursday": "11:00 am - 8:30 pm",
+        "friday": "11:00 am - 8:30 pm",
+        "saturday": "11:00 am - 8:30 pm",
+        "sunday": "11:00 am - 8:30 pm"
       },
 "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.7935401079967!2d145.05123631209642!3d-37.95860644221393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d7cf747523f%3A0xaf0f759e2936470d!2sDreamskape%20Southland!5e0!3m2!1sen!2sau!4v1776857025697!5m2!1sen!2sau"    
     },
@@ -87,13 +87,13 @@
       "email": "",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/0d241bf0-94a9-4761-ad53-946f7acdfb87/Dreamskape+concept+design%EF%BC%882026.04.07%EF%BC%89.pptx+%282%29.png?content-type=image%2Fpng",
       "hours": {
-        "monday": "11:00 am - 9:00 pm",
-        "tuesday": "11:00 am - 9:00 pm",
-        "wednesday": "11:00 am - 9:00 pm",
-        "thursday": "11:00 am - 9:00 pm",
-        "friday": "11:00 am - 9:00 pm",
-        "saturday": "11:00 am - 9:00 pm",
-        "sunday": "11:00 am - 9:00 pm"
+        "monday": "11:00 am - 8:30 pm",
+        "tuesday": "11:00 am - 8:30 pm",
+        "wednesday": "11:00 am - 8:30 pm",
+        "thursday": "11:00 am - 8:30 pm",
+        "friday": "11:00 am - 8:30 pm",
+        "saturday": "11:00 am - 8:30 pm",
+        "sunday": "11:00 am - 8:30 pm"
       },
 "googleMapsLink": ""    
     },
@@ -111,13 +111,13 @@
       "email": "",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/b839d15e-6197-414f-a7ca-9cab5d48466f/Dreamskape+concept+design%EF%BC%882026.04.07%EF%BC%89.pptx+%283%29.png?content-type=image%2Fpng",
       "hours": {
-        "monday": "11:00 am - 9:00 pm",
-        "tuesday": "11:00 am - 9:00 pm",
-        "wednesday": "11:00 am - 9:00 pm",
-        "thursday": "11:00 am - 9:00 pm",
-        "friday": "11:00 am - 9:00 pm",
-        "saturday": "11:00 am - 9:00 pm",
-        "sunday": "11:00 am - 9:00 pm"
+        "monday": "11:00 am - 8:30 pm",
+        "tuesday": "11:00 am - 8:30 pm",
+        "wednesday": "11:00 am - 8:30 pm",
+        "thursday": "11:00 am - 8:30 pm",
+        "friday": "11:00 am - 8:30 pm",
+        "saturday": "11:00 am - 8:30 pm",
+        "sunday": "11:00 am - 8:30 pm"
       },
 "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.7935401079967!2d145.05123631209642!3d-37.95860644221393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d7cf747523f%3A0xaf0f759e2936470d!2sDreamskape%20Southland!5e0!3m2!1sen!2sau!4v1776857025697!5m2!1sen!2sau"    
     }
@@ -125,100 +125,18 @@
 
 
 
-  "package": [
-    {
-      "id": "dream-activity",
-      "name": "Dream Activity",
-      "desciption": "Choose one immersive activity from:",
-      "availableLocationId": [
-        "ds-docklands",
-        "ds-knox",
-        "ds-southland"
-      ]
-    },
-    {
-      "id": "dream-movie",
-      "name": "Dream Movie",
-      "desciption": "Choose one immersive activity from:",
-      "availableLocationId": [
-        "ds-docklands",
-        "ds-knox",
-        "ds-southland"
-      ]
-    },
-    {
-      "id": "dream-plus",
-      "name": "Dream Plus (1 Activity + 1 Movie)",
-      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 1 immersive activity and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
-      "availableLocationId": [
-        "ds-docklands",
-        "ds-knox",
-        "ds-southland"
-      ]
-    },
-    {
-      "id": "dream-rush",
-      "name": "Dream Rush (2 Activities + 1 Movie)",
-      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 2 immersive activities and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
-      "availableLocationId": [
-        "ds-docklands"
-      ]
-    }
-  ],
-
-
   
   "games": [
     {
-      "id": "dreamverse",
-      "name": "DreamVerse",
-      "category": "ride",
-      "description": "Welcome to the future of immersive storytelling! Powered by ultra-high resolution visuals that stretch from floor to ceiling, DreamVerse surrounds you in stunning 3D environments, no headset required!",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/75972233-789f-4f44-a9cd-10cd92d500f1/DSC09891.jpg?format=750w",
-      "availableLocationId": [
-        "ds-docklands"
-      ]
-    },
-    {
-      "id": "dreamcoaster",
-      "name": "DreamCoaster",
-      "category": "ride",
-      "description": "Get ready for a thrilling ride packed with twists, turns, and surprise sensations like bubbles and sprays. Zoom past playful creatures and magical landmarks in an immersive world full of fun and adventure.",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/3194f3a7-ede5-47fc-90cc-fc8b4ffaaabd/Coaster+%282%29.jpg?format=750w",
-      "availableLocationId": [
-        "ds-docklands",
-        "ds-knox"
-      ]
-    },
-    {
-      "id": "dreamride",
-      "name": "DreamRide",
-      "category": "ride",
-      "description": "Designed to engage all five senses, DreamRide uses cutting-edge Virtual Reality technology that features 9D motion to fully immerse you in the ride. Each bike moves with the action, while wind, fog, water, and even scents hit at just the right moment. Get ready for a wild, unforgettable ride through worlds that feel totally real!",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg?format=750w",
-      "availableLocationId": [
-        "ds-southland"
-      ]
-    },
-    {
-      "id": "hurricane",
-      "name": "Hurricane",
-      "category": "ride",
-      "description": "Hurricane is the highlight of Dreamrace's VR experience. This four-seat, seven-axis motion ride is equipped with a 360-degree rotation capability, making it a 7DOF (Degrees of Freedom) experience. ",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG?format=750w",
-      "availableLocationId": [
-        "ds-docklands"
-      ]
-    },
-    {
       "id": "dreamgames",
-      "name": "DreamGames",
+      "name": "Dream Games",
       "category": "activity",
       "description": "Explore immersive game rooms packed with interactive puzzles, challenges, and surprises. Team up with family and friends to solve tasks that require cooperation, quick thinking, and solid teamwork. It's the perfect mix of family fun and team-building excitement!",
+      "href": "https://www.dreamskape.com.au/interactive-challenge-rooms",
       "imageSrc": {
         "ds-docklands":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?content-type=image%2Fjpeg",
         "ds-knox":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7ed694dc-4250-4d5a-8177-d96f4a4e3a70/IMG_6207.JPG?content-type=image%2Fjpeg",
-        "ds-southland":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/5622c39d-76cd-4857-b8d6-7d4eca8c9e86/IMG_6208.JPG?content-type=image%2Fjpeg"
+        "ds-southland":"https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg"
       },
       "availableLocationId": [
         "ds-docklands",
@@ -228,35 +146,91 @@
     },
     {
       "id": "dreamspartan",
-      "name": "DreamSpartan",
+      "name": "Spartan",
       "category": "activity",
       "description": "Dash, dodge, and hang on as moving walls and shifting platforms try to knock you off course. These high-energy obstacle courses challenge kids to stay focused, think fast, and push through to the finish it all off with a high-speed slide!",
+      "href": "https://www.dreamskape.com.au/smart-obstacle-arena",
       "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/17c068d3-c09c-404b-b60a-438eef687a9c/Spartan.jpg?format=750w",
       "availableLocationId": [
         "ds-docklands"
       ]
     },
     {
-      "id": "dreamswing",
-      "name": "DreamSwing",
+      "id": "dreamverse",
+      "name": "Dream Verse",
       "category": "ride",
-      "description": "Dream Swing is an immersive VR entertainment machine that integrates virtual reality technology and a dynamic simulation platform. The device supports multiple virtual scene switching, such as forest crossing, flying in the air, gliding in the future city, etc., suitable for players of all ages to experience.",
-      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/097a2b4f-48c8-4154-85b3-eaadbec30665/Screenshot+2025-12-12+at+16.27.10.png?format=750w",
+      "description": "Welcome to the future of immersive storytelling! Powered by ultra-high resolution visuals that stretch from floor to ceiling, DreamVerse surrounds you in stunning 3D environments, no headset required!",
+      "href": "https://www.dreamskape.com.au/naked-eye-3d-cinema",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/75972233-789f-4f44-a9cd-10cd92d500f1/DSC09891.jpg?format=750w",
       "availableLocationId": [
+        "ds-docklands"
+      ]
+    },
+    {
+      "id": "dreamcoaster",
+      "name": "Dream Coaster",
+      "category": "ride",
+      "description": "Get ready for a thrilling ride packed with twists, turns, and surprise sensations like bubbles and sprays. Zoom past playful creatures and magical landmarks in an immersive world full of fun and adventure.",
+      "href": "https://www.dreamskape.com.au/naked-eye-3d-cinema",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/3194f3a7-ede5-47fc-90cc-fc8b4ffaaabd/Coaster+%282%29.jpg?format=750w",
+      "availableLocationId": [
+        "ds-docklands",
+        "ds-knox"
+      ]
+    },
+    {
+      "id": "hurricane",
+      "name": "Hurricane",
+      "category": "ride",
+      "description": "Hurricane is the highlight of Dreamrace's VR experience. This four-seat, seven-axis motion ride is equipped with a 360-degree rotation capability, making it a 7DOF (Degrees of Freedom) experience. ",
+      "href": "https://www.dreamskape.com.au/vr-rides",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG?format=750w",
+      "availableLocationId": [
+        "ds-docklands"
+      ]
+    },
+    {
+      "id": "dreamride",
+      "name": "Dreamride",
+      "category": "ride",
+      "description": "Designed to engage all five senses, DreamRide uses cutting-edge Virtual Reality technology that features 9D motion to fully immerse you in the ride. Each bike moves with the action, while wind, fog, water, and even scents hit at just the right moment. Get ready for a wild, unforgettable ride through worlds that feel totally real!",
+      "href": "https://www.dreamskape.com.au/vr-rides",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg?format=750w",
+      "availableLocationId": [
+        "ds-docklands",
         "ds-southland"
       ]
     },
     {
       "id": "dreamflight",
-      "name": "DreamFlight",
+      "name": "Dream Flight",
       "category": "ride",
       "description": "Dream Flight is an advanced virtual reality flight simulator, providing two-person seating and perfectly replicating the cockpit of a fighter jet, designed for flight enthusiasts and gamers. It centers on a highly simulated flying fighter driving experience, allowing players to immerse themselves in the excitement and thrill of aerial combat. The flight simulator has a variety of built-in air games, including shooting interactive buttons, so that you can have intense and exciting air shooting interaction with your friends.",
+      "href": "https://www.dreamskape.com.au/vr-rides",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/16ac3a1e-d8bd-46d7-8959-4c95919ccd4f/WhatsApp+Image+2026-01-21+at+13.32.10.jpeg?content-type=image%2Fjpeg",
+      "availableLocationId": [
+        "ds-southland"
+      ]
+    },
+    {
+      "id": "dreamswing",
+      "name": "Dream Swing",
+      "category": "ride",
+      "description": "Dream Swing is an immersive VR entertainment machine that integrates virtual reality technology and a dynamic simulation platform. The device supports multiple virtual scene switching, such as forest crossing, flying in the air, gliding in the future city, etc., suitable for players of all ages to experience.",
+      "href": "https://www.dreamskape.com.au/vr-rides",
+      "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/982491aa-1bda-47b0-a818-9edce146efda/dreamswing.jpeg",
       "availableLocationId": [
         "ds-southland"
       ]
     }
   ],
+
+
+
+
+
+
+
 
 
 
@@ -307,6 +281,51 @@
         "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg?content-type=image%2Fjpeg",
         "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/d8494428-353c-4314-92b9-bf8947582d49/dream+swing.png?content-type=image%2Fpng",
         "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/16ac3a1e-d8bd-46d7-8959-4c95919ccd4f/WhatsApp+Image+2026-01-21+at+13.32.10.jpeg?content-type=image%2Fjpeg"
+      ]
+    }
+  ],
+
+
+
+
+
+  "package": [
+    {
+      "id": "dream-activity",
+      "name": "Dream Activity",
+      "desciption": "Choose one immersive activity from:",
+      "availableLocationId": [
+        "ds-docklands",
+        "ds-knox",
+        "ds-southland"
+      ]
+    },
+    {
+      "id": "dream-movie",
+      "name": "Dream Movie",
+      "desciption": "Choose one immersive activity from:",
+      "availableLocationId": [
+        "ds-docklands",
+        "ds-knox",
+        "ds-southland"
+      ]
+    },
+    {
+      "id": "dream-plus",
+      "name": "Dream Plus (1 Activity + 1 Movie)",
+      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 1 immersive activity and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
+      "availableLocationId": [
+        "ds-docklands",
+        "ds-knox",
+        "ds-southland"
+      ]
+    },
+    {
+      "id": "dream-rush",
+      "name": "Dream Rush (2 Activities + 1 Movie)",
+      "desciption": "<p>Choose one immersive activity from:</p><p>Choose 2 immersive activities and 1 cinematic ride experience for a perfect mix of action and entertainment.</p>",
+      "availableLocationId": [
+        "ds-docklands"
       ]
     }
   ]
