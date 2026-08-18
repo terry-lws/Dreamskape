@@ -57,10 +57,14 @@
       "name": "Spin It & Spin Up",
       "description": "Catch the lights by spinning the floor and matching the lights to the coloured marks on the floor.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/27ad9aff-343f-431f-8c6d-f177dabc656b/41730080545_.pic_hd.jpg",
-
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8d07e066-4998-45b7-bfcc-acc9fba94135/spin.PNG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/420d3b38-f26c-404a-87d9-e7588a315b81/spin2.PNG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/a065d6de-538a-4928-95d0-3c1e4437c5ef/spin2.jpeg"
+      ],
       "gamemodes": 2,
       "locations": ["Docklands", "Knox"],
-      "href": "/spinit"
+      "href": "/spins"
     },
     {
       "id": "control-master",
