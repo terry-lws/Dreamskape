@@ -32,7 +32,11 @@
       "badge": "popular",
       "description": "Push different wall light buttons according to the chosen game mode.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/65cdba1b-f3d7-414a-9229-3dffcf7aaa71/SPOT-IT-frames_5.1.1+Large.jpeg",
-
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7cad0214-09e7-4723-8c77-8d48a766f72c/DSC01156.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/ca688043-e496-45fc-a5b2-ab64f4b2f1e6/spot_it2.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/786a47f4-3b61-4d0a-91d8-a37cdc6e4d45/spot_it.jpeg"
+      ],
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/spot-it"
