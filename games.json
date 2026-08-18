@@ -21,6 +21,7 @@
       "badge": "popular",
       "description": "Dodge the lasers as you go back and forth into the safezone.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg",
+      
       "gamemodes": 6,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/laser-challenge"
@@ -31,6 +32,7 @@
       "badge": "popular",
       "description": "Push different wall light buttons according to the chosen game mode.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/65cdba1b-f3d7-414a-9229-3dffcf7aaa71/SPOT-IT-frames_5.1.1+Large.jpeg",
+
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/spot-it"
@@ -41,6 +43,7 @@
       "badge": "popular",
       "description": "Push different wall light buttons according to the chosen game mode.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/c4776c1b-8460-403d-bf24-1a41773aaa76/_O0A4646.jpg",
+
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/game-rooms/devils-eye"
@@ -50,6 +53,7 @@
       "name": "Spin It & Spin Up",
       "description": "Catch the lights by spinning the floor and matching the lights to the coloured marks on the floor.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/27ad9aff-343f-431f-8c6d-f177dabc656b/41730080545_.pic_hd.jpg",
+
       "gamemodes": 2,
       "locations": ["Docklands", "Knox"],
       "href": "/spinit"
@@ -60,6 +64,7 @@
       "badge": "docklands exclusive",
       "description": "Match arrows, jump on tiles, and hit corresponsing colours to win the game.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/7d0e4e1d-24f2-41dd-b289-5a67928307ed/WechatIMG9.jpg",
+
       "gamemodes": 8,
       "locations": ["Docklands"],
       "href": "/controlmaster"
@@ -69,6 +74,11 @@
       "name": "Climb",
       "description": "A rock climbing game without the elements and equipment.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/5622c39d-76cd-4857-b8d6-7d4eca8c9e86/IMG_6208.JPG",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/45d807d2-31d8-4566-833f-30719c352a86/DSC01148.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/1d1a9a9a-9630-4fbe-8381-84b5f4c23c79/Jumping-Lattice_Frame+Grab_1.jpg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8f4fc4d1-773f-48f3-b96a-2d98d489ee79/jumping_lattice.jpeg"
+      ],
       "gamemodes": 4,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/climb"
@@ -79,6 +89,11 @@
       "badge": "docklands exclusive",
       "description": "Identify the correct portal, toss the ball to your teammate, and put it in the hole.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/4d915133-5d01-47c5-943d-e2b60ec97522/%E9%80%89%E5%85%B3%E5%B1%8F%E4%B8%AD%E9%97%B4%E5%9B%BE-%E7%AE%A1%E9%81%93%E7%90%83%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B.png",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/c646d40e-0aee-45e5-9212-70764e925269/WechatIMG11.jpg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/097dff54-6710-43a4-8a95-c6a52ef47044/pipeball3.jpg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/92c803d6-1a0b-4b46-beea-44c781726a41/pipeball.jpeg"
+      ],
       "gamemodes": 3,
       "locations": ["Docklands"],
       "href": "/pipeball"
@@ -88,6 +103,11 @@
       "name": "Cool Arena",
       "description": "Push different wall light buttons according to the chosen game mode.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/ab574a79-4e00-468a-866c-81a21ec8a9fe/%E9%80%89%E5%85%B3%E5%B1%8F%E4%B8%AD%E9%97%B4%E5%9B%BE-%E7%82%AB%E9%85%B7%E6%8A%95%E6%8E%B73.png",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/42556d08-1451-4c18-abfa-1b9b01362f4c/%E9%80%89%E5%85%B3%E5%B1%8F%E4%B8%AD%E9%97%B4%E5%9B%BE-%E7%82%AB%E9%85%B7%E6%8A%95%E6%8E%B71.png",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/d7173906-9c56-41b8-a6d7-df2804a9d5c0/cool_arena2.png",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8bbeb3e1-1d80-41e2-ae74-36dd16372b6d/%E9%80%89%E5%85%B3%E5%B1%8F%E4%B8%AD%E9%97%B4%E5%9B%BE-%E7%82%AB%E9%85%B7%E6%8A%95%E6%8E%B72.jpg"
+      ],
       "gamemodes": 3,
       "locations": ["Docklands", "Southland"],
       "href": "/cool-arena"
