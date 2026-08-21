@@ -139,6 +139,10 @@
       "badge": "knox exclusive",
       "description": "Test your timing, reflexes, and teamwork in Lightning Room! Watch the lights carefully and strike at the perfect moment to score points. Stay focused—every missed hit costs your team a life.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/cfcdca07-eb7b-493f-a2eb-0a347558c2d4/Dreamskape+Knox+Opening+55+Medium.png",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/cfcdca07-eb7b-493f-a2eb-0a347558c2d4/Dreamskape+Knox+Opening+55+Medium.png",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/47a1bbfd-c9c8-442f-bc0c-acfb0d227a0e/IMG_6146.JPG"
+      ],
       "gamemodes": 3,
       "locations": ["Knox"],
       "href": "/lightning"
@@ -149,6 +153,10 @@
       "badge": "southland exclusive",
       "description": "Use hands and feet to touch buttons, stretch yourself like a octopus.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/74284a73-1369-4d5e-ab46-cda0be80f9a7/octopus.jpeg"
+      ],
       "gamemodes": 3,
       "locations": ["Southland"],
       "href": "/octopus"
