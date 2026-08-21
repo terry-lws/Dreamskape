@@ -21,7 +21,11 @@
       "badge": "popular",
       "description": "Dodge the lasers as you go back and forth into the safezone.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg",
-      
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/0d508357-6a8b-4ada-865e-1da91f26b6a2/laser+%28Small%29.jpg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/75fc5d73-4991-485d-aa9f-448bc9a9efc2/DSC01263.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/d13534e3-82ec-4ce1-bea8-7cdad5e12c24/laser_empty.jpeg"
+      ],
       "gamemodes": 6,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/laser-challenge"
@@ -47,7 +51,11 @@
       "badge": "popular",
       "description": "Push different wall light buttons according to the chosen game mode.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/c4776c1b-8460-403d-bf24-1a41773aaa76/_O0A4646.jpg",
-
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/495c480d-446c-4014-a1c6-b2fe595a6e37/DSC01331.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/99c67b33-d439-4ff1-81b3-c1b680d41f0e/DSC01324.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/da457d39-3ec0-4862-a382-57f6823afd33/devils2.jpeg"
+      ],
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/game-rooms/devils-eye"
@@ -72,7 +80,11 @@
       "badge": "docklands exclusive",
       "description": "Match arrows, jump on tiles, and hit corresponsing colours to win the game.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/7d0e4e1d-24f2-41dd-b289-5a67928307ed/WechatIMG9.jpg",
-
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/20127a8e-c0ea-486c-ae8d-4653f8a03aa7/DSC01308.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/68e89db4-0c99-406a-bdfe-291cc329b252/DSC01302.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/47390ea7-603d-4125-ab2e-d6cae532894f/control_master2.jpeg"
+      ],
       "gamemodes": 8,
       "locations": ["Docklands"],
       "href": "/control-master"
