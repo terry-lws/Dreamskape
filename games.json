@@ -58,7 +58,7 @@
       ],
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
-      "href": "/game-rooms/devils-eye"
+      "href": "devils-eye"
     },
     {
       "id": "spins",
@@ -141,7 +141,7 @@
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/cfcdca07-eb7b-493f-a2eb-0a347558c2d4/Dreamskape+Knox+Opening+55+Medium.png",
       "gamemodes": 3,
       "locations": ["Knox"],
-      "href": "/game-rooms/lightning"
+      "href": "/lightning"
     },
     {
       "id": "octopus",
