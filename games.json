@@ -6,6 +6,11 @@
       "badge": "popular",
       "description": "Step on blue lighted tiles while avoid moving red light tiles to complete the level.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2b4dcdf2-b8d9-4f42-be55-b9876cfa8091/IMG_5892.JPG",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/45d807d2-31d8-4566-833f-30719c352a86/DSC01148.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/1d1a9a9a-9630-4fbe-8381-84b5f4c23c79/Jumping-Lattice_Frame+Grab_1.jpg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8f4fc4d1-773f-48f3-b96a-2d98d489ee79/jumping_lattice.jpeg"
+      ],
       "gamemodes": 33,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/jumping-lattice-instructions"
@@ -16,6 +21,11 @@
       "badge": "popular",
       "description": "Dodge the lasers as you go back and forth into the safezone.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/0d508357-6a8b-4ada-865e-1da91f26b6a2/laser+%28Small%29.jpg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/75fc5d73-4991-485d-aa9f-448bc9a9efc2/DSC01263.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/d13534e3-82ec-4ce1-bea8-7cdad5e12c24/laser_empty.jpeg"
+      ],
       "gamemodes": 6,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/laser-challenge"
@@ -26,6 +36,11 @@
       "badge": "popular",
       "description": "Push different wall light buttons according to the chosen game mode.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/65cdba1b-f3d7-414a-9229-3dffcf7aaa71/SPOT-IT-frames_5.1.1+Large.jpeg",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7cad0214-09e7-4723-8c77-8d48a766f72c/DSC01156.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/ca688043-e496-45fc-a5b2-ab64f4b2f1e6/spot_it2.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/786a47f4-3b61-4d0a-91d8-a37cdc6e4d45/spot_it.jpeg"
+      ],
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/spot-it"
@@ -36,18 +51,28 @@
       "badge": "popular",
       "description": "Push different wall light buttons according to the chosen game mode.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/c4776c1b-8460-403d-bf24-1a41773aaa76/_O0A4646.jpg",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/495c480d-446c-4014-a1c6-b2fe595a6e37/DSC01331.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/99c67b33-d439-4ff1-81b3-c1b680d41f0e/DSC01324.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/da457d39-3ec0-4862-a382-57f6823afd33/devils2.jpeg"
+      ],
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
-      "href": "/game-rooms/devils-eye"
+      "href": "devils-eye"
     },
     {
       "id": "spins",
       "name": "Spin It & Spin Up",
       "description": "Catch the lights by spinning the floor and matching the lights to the coloured marks on the floor.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/27ad9aff-343f-431f-8c6d-f177dabc656b/41730080545_.pic_hd.jpg",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/fab86a0d-5d1f-4d72-8b74-b0eb9a47c4d7/spin3",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/be0f0ac0-4b6e-481b-aff6-c6b5d068eddf/spin4",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/a065d6de-538a-4928-95d0-3c1e4437c5ef/spin2.jpeg"
+      ],
       "gamemodes": 2,
       "locations": ["Docklands", "Knox"],
-      "href": "/spinit"
+      "href": "/spins"
     },
     {
       "id": "control-master",
@@ -55,15 +80,25 @@
       "badge": "docklands exclusive",
       "description": "Match arrows, jump on tiles, and hit corresponsing colours to win the game.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/7d0e4e1d-24f2-41dd-b289-5a67928307ed/WechatIMG9.jpg",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/20127a8e-c0ea-486c-ae8d-4653f8a03aa7/DSC01308.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/68e89db4-0c99-406a-bdfe-291cc329b252/DSC01302.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/47390ea7-603d-4125-ab2e-d6cae532894f/control_master2.jpeg"
+      ],
       "gamemodes": 8,
       "locations": ["Docklands"],
-      "href": "/controlmaster"
+      "href": "/control-master"
     },
     {
       "id": "climb",
       "name": "Climb",
       "description": "A rock climbing game without the elements and equipment.",
-      "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/5622c39d-76cd-4857-b8d6-7d4eca8c9e86/IMG_6208.JPG",
+      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/507e3b90-5040-48ee-8913-9f39c144ad30/climb4.png",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/5622c39d-76cd-4857-b8d6-7d4eca8c9e86/IMG_6208.JPG",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/777980d9-22bc-45b4-b9ff-b68ca133d0a1/climb2.png",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/ad85ceca-d78b-4166-a5cc-16f43ecf2e15/climb.jpeg"
+      ],
       "gamemodes": 4,
       "locations": ["Docklands", "Knox", "Southland"],
       "href": "/climb"
@@ -74,15 +109,25 @@
       "badge": "docklands exclusive",
       "description": "Identify the correct portal, toss the ball to your teammate, and put it in the hole.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/4d915133-5d01-47c5-943d-e2b60ec97522/%E9%80%89%E5%85%B3%E5%B1%8F%E4%B8%AD%E9%97%B4%E5%9B%BE-%E7%AE%A1%E9%81%93%E7%90%83%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B.png",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/c646d40e-0aee-45e5-9212-70764e925269/WechatIMG11.jpg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/097dff54-6710-43a4-8a95-c6a52ef47044/pipeball3.jpg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/92c803d6-1a0b-4b46-beea-44c781726a41/pipeball.jpeg"
+      ],
       "gamemodes": 3,
       "locations": ["Docklands"],
       "href": "/pipeball"
     },
     {
-      "id": "cool-arene",
+      "id": "cool-arena",
       "name": "Cool Arena",
       "description": "Push different wall light buttons according to the chosen game mode.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/ab574a79-4e00-468a-866c-81a21ec8a9fe/%E9%80%89%E5%85%B3%E5%B1%8F%E4%B8%AD%E9%97%B4%E5%9B%BE-%E7%82%AB%E9%85%B7%E6%8A%95%E6%8E%B73.png",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/42556d08-1451-4c18-abfa-1b9b01362f4c/%E9%80%89%E5%85%B3%E5%B1%8F%E4%B8%AD%E9%97%B4%E5%9B%BE-%E7%82%AB%E9%85%B7%E6%8A%95%E6%8E%B71.png",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/d7173906-9c56-41b8-a6d7-df2804a9d5c0/cool_arena2.png",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/8bbeb3e1-1d80-41e2-ae74-36dd16372b6d/%E9%80%89%E5%85%B3%E5%B1%8F%E4%B8%AD%E9%97%B4%E5%9B%BE-%E7%82%AB%E9%85%B7%E6%8A%95%E6%8E%B72.jpg"
+      ],
       "gamemodes": 3,
       "locations": ["Docklands", "Southland"],
       "href": "/cool-arena"
@@ -94,9 +139,13 @@
       "badge": "knox exclusive",
       "description": "Test your timing, reflexes, and teamwork in Lightning Room! Watch the lights carefully and strike at the perfect moment to score points. Stay focused—every missed hit costs your team a life.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/cfcdca07-eb7b-493f-a2eb-0a347558c2d4/Dreamskape+Knox+Opening+55+Medium.png",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/cfcdca07-eb7b-493f-a2eb-0a347558c2d4/Dreamskape+Knox+Opening+55+Medium.png",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/47a1bbfd-c9c8-442f-bc0c-acfb0d227a0e/IMG_6146.JPG"
+      ],
       "gamemodes": 3,
       "locations": ["Knox"],
-      "href": "/game-rooms/lightning"
+      "href": "/lightning"
     },
     {
       "id": "octopus",
@@ -104,11 +153,20 @@
       "badge": "southland exclusive",
       "description": "Use hands and feet to touch buttons, stretch yourself like a octopus.",
       "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg",
+      "galleryList": [
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg",
+        "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/74284a73-1369-4d5e-ab46-cda0be80f9a7/octopus.jpeg"
+      ],
       "gamemodes": 3,
       "locations": ["Southland"],
       "href": "/octopus"
     }
   ],
+
+
+
+
+
   "spartan": [
     {
       "id": "conquer-obstacles",
