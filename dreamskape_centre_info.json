@@ -149,7 +149,7 @@
       "name": "Knox Exclusive Lightning Game Room",
       "category": "activity",
       "description": "A storm is brewing above you! Watch the lightning travel down the tube from the cloud and time your move carefully. Hit the button at the exact moment the light strikes to catch it. Stay focused! The lightning gets faster and more unpredictable as the game progresses.",
-      "href": "https://www.dreamskape.com.au/interactive-challenge-rooms/lightning",
+      "href": "https://www.dreamskape.com.au/lightning",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7ed694dc-4250-4d5a-8177-d96f4a4e3a70/IMG_6207.JPG?content-type=image%2Fjpeg",
       "availableLocationId": [
         "ds-knox"
@@ -160,7 +160,7 @@
       "name": "Southland Exclusive Octopus Game Room",
       "category": "activity",
       "description": "Stand on the light-up buttons and use your hands to reach for the wall buttons, just like an octopus! Stay on the correct lights while stretching, switching positions and hitting the buttons as quickly as you can. Keep up with the lights and complete the target to beat the level.",
-      "href": "https://www.dreamskape.com.au/interactive-challenge-rooms/octopus",
+      "href": "https://www.dreamskape.com.au/octopus",
       "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg",
       "availableLocationId": [
         "ds-southland"
