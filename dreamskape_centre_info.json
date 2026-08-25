@@ -87,13 +87,13 @@
       "email": "",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/3aceb1ff-33c6-4bff-adae-9b6c53c9dc51/chatswood.jpeg",
       "hours": {
-        "monday": "11:00 am - 8:30 pm",
-        "tuesday": "11:00 am - 8:30 pm",
-        "wednesday": "11:00 am - 8:30 pm",
-        "thursday": "11:00 am - 8:30 pm",
-        "friday": "11:00 am - 8:30 pm",
-        "saturday": "11:00 am - 8:30 pm",
-        "sunday": "11:00 am - 8:30 pm"
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
       },
 "googleMapsLink": ""    
     },
@@ -111,15 +111,15 @@
       "email": "",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/b839d15e-6197-414f-a7ca-9cab5d48466f/Dreamskape+concept+design%EF%BC%882026.04.07%EF%BC%89.pptx+%283%29.png?content-type=image%2Fpng",
       "hours": {
-        "monday": "11:00 am - 8:30 pm",
-        "tuesday": "11:00 am - 8:30 pm",
-        "wednesday": "11:00 am - 8:30 pm",
-        "thursday": "11:00 am - 8:30 pm",
-        "friday": "11:00 am - 8:30 pm",
-        "saturday": "11:00 am - 8:30 pm",
-        "sunday": "11:00 am - 8:30 pm"
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
       },
-"googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.7935401079967!2d145.05123631209642!3d-37.95860644221393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d7cf747523f%3A0xaf0f759e2936470d!2sDreamskape%20Southland!5e0!3m2!1sen!2sau!4v1776857025697!5m2!1sen!2sau"    
+"googleMapsLink": ""    
     }
   ],
 
