@@ -32,7 +32,7 @@
         {
             "id": "hurricane",
             "name": "Hurricane",
-            "description": "Step beyond the screen with DreamVerse, an immersive naked-eye 3D cinema experience. Explore breathtaking worlds and cinematic adventures with no 3D glasses or VR headset required.",
+            "description": "Hold on tight for Hurricane, an exhilarating VR thrill ride that spins, lifts, and twists you through heart-pounding adventures.",
             "video": "https://www.dreamskape.com.au/s/hurricane.mp4",
             "gallery": [
                 {
@@ -55,7 +55,7 @@
         {
             "id": "dreamride",
             "name": "Dreamride",
-            "description": "Ride the movie with DreamCoaster, combining naked-eye 3D visuals, motion-simulated seating and special effects for an unforgettable adventure.",
+            "description": "Designed to engage all five senses, DreamRide uses cutting-edge Virtual Reality technology that features 9D motion to fully immerse you in the ride.",
             "video": "https://www.dreamskape.com.au/s/Dreamride.mp4",
             "duration": "6 minutes",
             "thrill": "★★★★",
