@@ -6,7 +6,7 @@
       "address": "Level 1 27-37 Star Crescent, Docklands VIC 3008",
       "suburb": "Docklands",
       "mall": "The District Docklands",
-      "price": 20,
+      "price": 17,
       "features": ["Naked-eye 3D","Challenge Game Rooms","Obstacle Course","VR Rides"],
       "attractionsLink":"/docklands",
       "bookingLink": "https://dreamskape.outgrow.us/dreamskape-3",
@@ -32,7 +32,7 @@
       "email": "knoxadmin@dreamskape.com.au",
       "suburb": "Wantirna South",
       "mall": "Westfiled Knox",
-      "price": 20,
+      "price": 17,
       "features": ["Naked-eye 3D","Challenge Game Rooms","Open Late"],
       "attractionsLink":"/knox",
       "bookingLink": "https://dreamskape.outgrow.us/dreamskape-3",
@@ -55,7 +55,7 @@
       "address": "Shop 2089/1239 Nepean Highway, Cheltenham VIC 3192",
       "suburb": "Cheltenham",
       "mall": "Westfield Southland",
-      "price": 20,
+      "price": 17,
       "features": ["Challenge Game Rooms","VR Rides", "Open Late"],
       "attractionsLink":"/southland",
       "bookingLink": "https://dreamskape.outgrow.us/dreamskape-3",
@@ -81,19 +81,19 @@
       "mall": "NSW",
       "price": "",
       "features": [],
-      "attractionsLink":"/chatswood",
+      "attractionsLink":"/sydney",
       "bookingLink": "",
       "phone": "",
       "email": "",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/3aceb1ff-33c6-4bff-adae-9b6c53c9dc51/chatswood.jpeg",
       "hours": {
-        "monday": "11:00 am - 8:30 pm",
-        "tuesday": "11:00 am - 8:30 pm",
-        "wednesday": "11:00 am - 8:30 pm",
-        "thursday": "11:00 am - 8:30 pm",
-        "friday": "11:00 am - 8:30 pm",
-        "saturday": "11:00 am - 8:30 pm",
-        "sunday": "11:00 am - 8:30 pm"
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
       },
 "googleMapsLink": ""    
     },
@@ -105,21 +105,21 @@
       "mall": "SA",
       "price": "",
       "features": [],
-      "attractionsLink":"/west-lakes",
+      "attractionsLink":"/adelaide",
       "bookingLink": "",
       "phone": "",
       "email": "",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/b839d15e-6197-414f-a7ca-9cab5d48466f/Dreamskape+concept+design%EF%BC%882026.04.07%EF%BC%89.pptx+%283%29.png?content-type=image%2Fpng",
       "hours": {
-        "monday": "11:00 am - 8:30 pm",
-        "tuesday": "11:00 am - 8:30 pm",
-        "wednesday": "11:00 am - 8:30 pm",
-        "thursday": "11:00 am - 8:30 pm",
-        "friday": "11:00 am - 8:30 pm",
-        "saturday": "11:00 am - 8:30 pm",
-        "sunday": "11:00 am - 8:30 pm"
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
       },
-"googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.7935401079967!2d145.05123631209642!3d-37.95860644221393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d7cf747523f%3A0xaf0f759e2936470d!2sDreamskape%20Southland!5e0!3m2!1sen!2sau!4v1776857025697!5m2!1sen!2sau"    
+"googleMapsLink": ""    
     }
   ],
 
@@ -135,12 +135,34 @@
       "href": "https://www.dreamskape.com.au/interactive-challenge-rooms",
       "imageSrc": {
         "ds-docklands":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?content-type=image%2Fjpeg",
-        "ds-knox":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7ed694dc-4250-4d5a-8177-d96f4a4e3a70/IMG_6207.JPG?content-type=image%2Fjpeg",
-        "ds-southland":"https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg"
+        "ds-knox":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?content-type=image%2Fjpeg",
+        "ds-southland":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?content-type=image%2Fjpeg"
       },
       "availableLocationId": [
         "ds-docklands",
         "ds-knox",
+        "ds-southland"
+      ]
+    },
+    {
+      "id": "dreamgames-lightning",
+      "name": "Knox Exclusive Lightning Game Room",
+      "category": "activity",
+      "description": "A storm is brewing above you! Watch the lightning travel down the tube from the cloud and time your move carefully. Hit the button at the exact moment the light strikes to catch it. Stay focused! The lightning gets faster and more unpredictable as the game progresses.",
+      "href": "https://www.dreamskape.com.au/lightning",
+      "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/7ed694dc-4250-4d5a-8177-d96f4a4e3a70/IMG_6207.JPG?content-type=image%2Fjpeg",
+      "availableLocationId": [
+        "ds-knox"
+      ]
+    },
+    {
+      "id": "dreamgames-octopus",
+      "name": "Southland Exclusive Octopus Game Room",
+      "category": "activity",
+      "description": "Stand on the light-up buttons and use your hands to reach for the wall buttons, just like an octopus! Stay on the correct lights while stretching, switching positions and hitting the buttons as quickly as you can. Keep up with the lights and complete the target to beat the level.",
+      "href": "https://www.dreamskape.com.au/octopus",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/d57046cc-f93c-4421-8d09-cd5e1416aae2/438101142_18017321438513484_4984030453071453169_n.jpg",
+      "availableLocationId": [
         "ds-southland"
       ]
     },
