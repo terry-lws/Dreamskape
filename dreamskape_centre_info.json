@@ -132,7 +132,7 @@
       "name": "Dream Games",
       "category": "activity",
       "description": "Explore immersive game rooms packed with interactive puzzles, challenges, and surprises. Team up with family and friends to solve tasks that require cooperation, quick thinking, and solid teamwork. It's the perfect mix of family fun and team-building excitement!",
-      "href": "https://www.dreamskape.com.au/interactive-challenge-rooms",
+      "href": "https://www.dreamskape.com.au/experiences/dream-games",
       "imageSrc": {
         "ds-docklands":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?content-type=image%2Fjpeg",
         "ds-knox":"https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/4bf46c0a-0954-44a0-a0b5-abb6638137a1/Dreamskape+Knox+Opening+52.jpg?content-type=image%2Fjpeg",
@@ -171,7 +171,7 @@
       "name": "Spartan",
       "category": "activity",
       "description": "Dash, dodge, and hang on as moving walls and shifting platforms try to knock you off course. These high-energy obstacle courses challenge kids to stay focused, think fast, and push through to the finish it all off with a high-speed slide!",
-      "href": "https://www.dreamskape.com.au/smart-obstacle-arena",
+      "href": "https://www.dreamskape.com.au/experiences/spartan",
       "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/17c068d3-c09c-404b-b60a-438eef687a9c/Spartan.jpg?format=750w",
       "availableLocationId": [
         "ds-docklands"
@@ -205,7 +205,7 @@
       "name": "Hurricane",
       "category": "ride",
       "description": "Hurricane is the highlight of Dreamrace's VR experience. This four-seat, seven-axis motion ride is equipped with a 360-degree rotation capability, making it a 7DOF (Degrees of Freedom) experience. ",
-      "href": "https://www.dreamskape.com.au/vr-rides",
+      "href": "https://www.dreamskape.com.au/experiences/vr-rides",
       "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/29bec552-b0d2-421d-8d96-0af298008cbf/IMG_6209.JPG?format=750w",
       "availableLocationId": [
         "ds-docklands"
@@ -216,7 +216,7 @@
       "name": "Dreamride",
       "category": "ride",
       "description": "Designed to engage all five senses, DreamRide uses cutting-edge Virtual Reality technology that features 9D motion to fully immerse you in the ride. Each bike moves with the action, while wind, fog, water, and even scents hit at just the right moment. Get ready for a wild, unforgettable ride through worlds that feel totally real!",
-      "href": "https://www.dreamskape.com.au/vr-rides",
+      "href": "https://www.dreamskape.com.au/experiences/vr-rides",
       "imageSrc": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/2ad08000-7ed5-428f-ae06-edf3770f0f2c/Ride.jpg?format=750w",
       "availableLocationId": [
         "ds-docklands",
@@ -228,7 +228,7 @@
       "name": "Dream Flight",
       "category": "ride",
       "description": "Dream Flight is an advanced virtual reality flight simulator, providing two-person seating and perfectly replicating the cockpit of a fighter jet, designed for flight enthusiasts and gamers. It centers on a highly simulated flying fighter driving experience, allowing players to immerse themselves in the excitement and thrill of aerial combat. The flight simulator has a variety of built-in air games, including shooting interactive buttons, so that you can have intense and exciting air shooting interaction with your friends.",
-      "href": "https://www.dreamskape.com.au/vr-rides",
+      "href": "https://www.dreamskape.com.au/experiences/vr-rides",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/16ac3a1e-d8bd-46d7-8959-4c95919ccd4f/WhatsApp+Image+2026-01-21+at+13.32.10.jpeg?content-type=image%2Fjpeg",
       "availableLocationId": [
         "ds-southland"
@@ -239,7 +239,7 @@
       "name": "Dream Swing",
       "category": "ride",
       "description": "Dream Swing is an immersive VR entertainment machine that integrates virtual reality technology and a dynamic simulation platform. The device supports multiple virtual scene switching, such as forest crossing, flying in the air, gliding in the future city, etc., suitable for players of all ages to experience.",
-      "href": "https://www.dreamskape.com.au/vr-rides",
+      "href": "https://www.dreamskape.com.au/experiences/vr-rides",
       "imageSrc": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/982491aa-1bda-47b0-a818-9edce146efda/dreamswing.jpeg",
       "availableLocationId": [
         "ds-southland"
