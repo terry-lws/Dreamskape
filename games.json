@@ -13,7 +13,7 @@
       ],
       "gamemodes": 33,
       "locations": ["Docklands", "Knox", "Southland"],
-      "href": "/jumping-lattice"
+      "href": "/experiences/dream-games/jumping-lattice"
     },
     {
       "id": "laser-challenge",
@@ -28,7 +28,7 @@
       ],
       "gamemodes": 6,
       "locations": ["Docklands", "Knox", "Southland"],
-      "href": "/laser-challenge"
+      "href": "/experiences/dream-games/laser-challenge"
     },
     {
       "id": "spot-it",
@@ -43,7 +43,7 @@
       ],
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
-      "href": "/spot-it"
+      "href": "/experiences/dream-games/spot-it"
     },
     {
       "id": "devils-eye",
@@ -58,7 +58,7 @@
       ],
       "gamemodes": 10,
       "locations": ["Docklands", "Knox", "Southland"],
-      "href": "devils-eye"
+      "href": "/experiences/dream-games/devils-eye"
     },
     {
       "id": "spins",
@@ -72,7 +72,7 @@
       ],
       "gamemodes": 2,
       "locations": ["Docklands", "Knox"],
-      "href": "/spins"
+      "href": "/experiences/dream-games/spins"
     },
     {
       "id": "control-master",
@@ -87,7 +87,7 @@
       ],
       "gamemodes": 8,
       "locations": ["Docklands"],
-      "href": "/control-master"
+      "href": "/experiences/dream-games/control-master"
     },
     {
       "id": "climb",
@@ -101,7 +101,7 @@
       ],
       "gamemodes": 4,
       "locations": ["Docklands", "Knox", "Southland"],
-      "href": "/climb"
+      "href": "/experiences/dream-games/climb"
     },
     {
       "id": "pipeball",
@@ -116,7 +116,7 @@
       ],
       "gamemodes": 3,
       "locations": ["Docklands"],
-      "href": "/pipeball"
+      "href": "/experiences/dream-games/pipeball"
     },
     {
       "id": "cool-arena",
@@ -130,7 +130,7 @@
       ],
       "gamemodes": 3,
       "locations": ["Docklands", "Southland"],
-      "href": "/cool-arena"
+      "href": "/experiences/dream-games/cool-arena"
     },
     
     {
@@ -145,7 +145,7 @@
       ],
       "gamemodes": 3,
       "locations": ["Knox"],
-      "href": "/lightning"
+      "href": "/experiences/dream-games/lightning"
     },
     {
       "id": "octopus",
@@ -159,7 +159,7 @@
       ],
       "gamemodes": 3,
       "locations": ["Southland"],
-      "href": "/octopus"
+      "href": "/experiences/dream-games/octopus"
     }
   ],
 
