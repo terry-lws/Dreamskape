@@ -104,9 +104,9 @@
     ],
     "dreamcoasterPosters": [
         {
-            "id": "dinosaur",
-            "name": "Dinosaur Files",
-            "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/50637afa-68b5-4d3c-97cd-68dad6526a5a/Image_20260108154004_778_9.jpg",
+            "id": "toy",
+            "name": "Toy Kingdom Adventure",
+            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/63080915-f9e7-42d5-aa02-0e2f02cb56ee/toy.png",
             "location": "Docklands"
         },
         {
@@ -116,9 +116,9 @@
             "location": "Docklands"
         },
         {
-            "id": "space",
-            "name": "Space War",
-            "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/bfeeadbd-a244-422a-9024-3a031bb538c4/Image_20260108154016_781_9.jpg",
+            "id": "adventure",
+            "name": "Dreamskape Adventure",
+            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/96b8986e-697f-4882-aaca-ea79002d4f32/adventure.png",
             "location": "Docklands"
         },
         {
