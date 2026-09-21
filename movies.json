@@ -92,21 +92,21 @@
     ],
     "dreamversePosters": [
         {
-            "id": "elf",
-            "name": "Elf Time",
-            "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/46986093-5741-43f2-8471-05f61c4d2046/Image_20260108154014_780_9.png"
+            "id": "horizon",
+            "name": "Beyond The Horizon",
+            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/ff6940e7-1538-44b4-aad3-478bbac40bc8/beyond_the_horizon.jpg"
         },
         {
-            "id": "mermaid",
-            "name": "Mermaid Ocean",
-            "image": "https://images.squarespace-cdn.com/content/v1/658a609156fc0e15b49ccc89/a938a2e2-7f49-4fe4-95cf-994adaeba9be/Image_20260108154007_779_9.png"
+            "id": "thrilling",
+            "name": "Thrilling Journey",
+            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/776a6fa1-a699-4d8f-8df7-90eff29f59dc/thrilling_journey.jpg"
         }
     ],
     "dreamcoasterPosters": [
         {
             "id": "toy",
             "name": "Toy Kingdom Adventure",
-            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/63080915-f9e7-42d5-aa02-0e2f02cb56ee/toy.png",
+            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/9f7dcdfe-9695-4bbe-b2d0-b2b0e7111786/toy.jpg",
             "location": "Docklands"
         },
         {
@@ -118,7 +118,7 @@
         {
             "id": "adventure",
             "name": "Dreamskape Adventure",
-            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/96b8986e-697f-4882-aaca-ea79002d4f32/adventure.png",
+            "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/86d66a3f-464b-4ea4-b27d-3e91fca9dfad/adventure.jpg",
             "location": "Docklands"
         },
         {
