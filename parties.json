@@ -174,20 +174,6 @@
   },
   "lollyPacks": [
     {
-      "id": "small-bag",
-      "name": "Small Bag",
-      "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/0007b51b-a98d-4503-8fc7-d4b97f295cc9/small_lolly_pack.jpg",
-      "price": "$4",
-      "includes": [
-        "1x Wicked Fizz",
-        "4x Zappo",
-        "3x TNT Sour Chews",
-        "3x Chew Candy Mega",
-        "1x Lollipop",
-        "1x Jelly Fruit"
-      ]
-    },
-    {
       "id": "large-bag",
       "name": "Large Bag",
       "image": "https://images.squarespace-cdn.com/content/658a609156fc0e15b49ccc89/cc3db623-fb81-49ea-a9e3-a6746dc0c0bd/large_lolly_pack.jpg",
